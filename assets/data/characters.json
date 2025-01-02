@@ -1,0 +1,205 @@
+[
+    {
+        "ID": "char_01",
+        "name": "link",
+        "mapname": "Default",
+        "coord": "",
+        "type": ""
+    },
+    {
+        "ID": "char_02",
+        "name": "impa",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_03",
+        "name": "sheik",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_04",
+        "name": "lana",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_05",
+        "name": "zelda",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_06",
+        "name": "ganondorf",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_07",
+        "name": "darunia",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_08",
+        "name": "ruto",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_09",
+        "name": "agitha",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_10",
+        "name": "midna",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_11",
+        "name": "zant",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_12",
+        "name": "fi",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_13",
+        "name": "ghirahim",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_14",
+        "name": "cia",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_15",
+        "name": "volga",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_16",
+        "name": "wizzro",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_17",
+        "name": "linkle",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "",
+        "type": "victory"
+    },
+    {
+        "ID": "char_18",
+        "name": "twili Midna",
+        "mapname": "Adventure",
+        "coord": "f3",
+        "type": "victory"
+    },
+    {
+        "ID": "char_19",
+        "name": "young Link",
+        "mapname": "Adventure",
+        "coord": "i7",
+        "type": "victory"
+    },
+    {
+        "ID": "char_20",
+        "name": "tingle",
+        "mapname": "Adventure",
+        "coord": "l1",
+        "type": "victory"
+    },
+    {
+        "ID": "char_21",
+        "name": "skull Kid",
+        "mapname": "Adventure",
+        "coord": "m3",
+        "type": "victory"
+    },
+    {
+        "ID": "char_22",
+        "name": "toon Link",
+        "mapname": "Great Sea",
+        "coord": "i2",
+        "type": "victory"
+    },
+    {
+        "ID": "char_23",
+        "name": "tetra",
+        "mapname": "Great Sea",
+        "coord": "k3",
+        "type": "victory"
+    },
+    {
+        "ID": "char_24",
+        "name": "king Daphnes",
+        "mapname": "Great Sea",
+        "coord": "m3",
+        "type": "victory"
+    },
+    {
+        "ID": "char_25",
+        "name": "medli",
+        "mapname": "Great Sea",
+        "coord": "h2",
+        "type": "victory"
+    },
+    {
+        "ID": "char_26",
+        "name": "marin",
+        "mapname": "Koholint Island",
+        "coord": "c5",
+        "type": "victory"
+    },
+    {
+        "ID": "char_27",
+        "name": "toon Zelda",
+        "mapname": "Grand Travels",
+        "coord": "k6",
+        "type": "victory"
+    },
+    {
+        "ID": "char_28",
+        "name": "ravio",
+        "mapname": "Lorule",
+        "coord": "e7",
+        "type": "victory"
+    },
+    {
+        "ID": "char_29",
+        "name": "yuga",
+        "mapname": "Lorule",
+        "coord": "k8",
+        "type": "victory"
+    }
+]

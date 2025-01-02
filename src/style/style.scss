@@ -1,0 +1,79 @@
+//Imports
+@use 'mixins' as *;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&family=Overlock+SC&display=swap');
+
+$bodybackground: #050A11;
+$fontsize_default: 18px;
+
+//Defaults
+*, a {margin: 0; padding: 0;}
+ul {list-style-type: none;}
+:root {font-size: $fontsize_default;}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Overlock SC", sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+body {
+    background-color: #1c1c1c;
+    color: #fff;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: blue;
+    width: 100%;
+    height: 100%;
+
+    &.sidebar_mini {max-width: 80px}
+    &.sidebar_full {max-width: 300px}
+
+}
+
+.focus {
+    background: green;
+    &.sidebar_mini {
+        margin-left: 80px;
+        width: calc(100% - 120px);
+    }
+    &.sidebar_full {
+        margin-left: 300px;
+        width: calc(100% - 340px);
+    }
+
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.mapzone {
+    display: grid;
+    grid-auto-flow: column;
+
+    &.adventure {
+        grid-template-columns: repeat(16, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        
+
+    }
+
+    .node {
+        background: red;
+        width: 80px;
+        height: 55px;
+        cursor: pointer;
+        img {
+            width: 80px;
+            height: 55px;
+        }
+
+        .tile:hover {
+            transform-origin: center;
+            transition-duration: 0.32s;
+            transform: scale(1.3);
+        }
+    }
+}

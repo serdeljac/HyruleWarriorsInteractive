@@ -1,0 +1,209 @@
+[
+    {
+        "ID": "fairy_01",
+        "order": 1,
+        "name": "Heart Bonds",
+        "mapname": "Adventure",
+        "coord": "A3",
+        "area": "Fairy Fountain",
+        "element": "fire"
+    },
+    {
+        "ID": "fairy_02",
+        "order": 2,
+        "name": "Special Bonds",
+        "mapname": "Great Sea",
+        "coord": "N6",
+        "area": "Fairy Fountain",
+        "element": "fire"
+    },
+    {
+        "ID": "fairy_03",
+        "order": 3,
+        "name": "Keep Keeper",
+        "mapname": "Master Quest",
+        "coord": "N5",
+        "area": "W. Boulder Keep",
+        "element": "fire"
+    },
+    {
+        "ID": "fairy_04",
+        "order": 4,
+        "name": "Special Regain",
+        "mapname": "Termina",
+        "coord": "K7",
+        "area": "East Goron Keep",
+        "element": "fire"
+    },
+    {
+        "ID": "fairy_05",
+        "order": 5,
+        "name": "Health Regain",
+        "mapname": "Adventure",
+        "coord": "P7",
+        "area": "West Keep",
+        "element": "water"
+    },
+    {
+        "ID": "fairy_06",
+        "order": 6,
+        "name": "Dream Sphere",
+        "mapname": "Great Sea",
+        "coord": "J4",
+        "area": "Ruins Summit",
+        "element": "water"
+    },
+    {
+        "ID": "fairy_07",
+        "order": 7,
+        "name": "Wall of Water",
+        "mapname": "Master Quest",
+        "coord": "K8",
+        "area": "Hilltop Keep",
+        "element": "water"
+    },
+    {
+        "ID": "fairy_08",
+        "order": 8,
+        "name": "Health Sponge",
+        "mapname": "Termina",
+        "coord": "E4",
+        "area": "West Keep",
+        "element": "water"
+    },
+    {
+        "ID": "fairy_09",
+        "order": 9,
+        "name": "Special Fountain",
+        "mapname": "Grand Travels",
+        "coord": "I7",
+        "area": "Eastern Tree",
+        "element": "water"
+    },
+    {
+        "ID": "fairy_10",
+        "order": 10,
+        "name": "Extreme Gusts",
+        "mapname": "Adventure",
+        "coord": "F3",
+        "area": "North Field Keep",
+        "element": "lightning"
+    },
+    {
+        "ID": "fairy_11",
+        "order": 11,
+        "name": "Invincible Weakling",
+        "mapname": "Great Sea",
+        "coord": "B6",
+        "area": "North Palace",
+        "element": "lightning"
+    },
+    {
+        "ID": "fairy_12",
+        "order": 12,
+        "name": "Extreme Evasion",
+        "mapname": "Master Quest",
+        "coord": "B4",
+        "area": "Clifftop Keep",
+        "element": "lightning"
+    },
+    {
+        "ID": "fairy_13",
+        "order": 13,
+        "name": "Marathon Man",
+        "mapname": "Termina",
+        "coord": "I3",
+        "area": "Central Keep",
+        "element": "lightning"
+    },
+    {
+        "ID": "fairy_14",
+        "order": 14,
+        "name": "Hard Worker",
+        "mapname": "Adventure",
+        "coord": "H7",
+        "area": "South Field Keep",
+        "element": "light"
+    },
+    {
+        "ID": "fairy_15",
+        "order": 15,
+        "name": "Invincible Weakling",
+        "mapname": "Great Sea",
+        "coord": "D2",
+        "area": "S. Desert Keep",
+        "element": "light"
+    },
+    {
+        "ID": "fairy_16",
+        "order": 16,
+        "name": "Repair Technician",
+        "mapname": "Master Quest",
+        "coord": "L2",
+        "area": "Southeast Square",
+        "element": "light"
+    },
+    {
+        "ID": "fairy_17",
+        "order": 17,
+        "name": "Special Regain",
+        "mapname": "Twilight",
+        "coord": "F1",
+        "area": "Southwest Keep",
+        "element": "light"
+    },
+    {
+        "ID": "fairy_18",
+        "order": 18,
+        "name": "Magic Sponge",
+        "mapname": "Koholint Island",
+        "coord": "G6",
+        "area": "East Goron Keep",
+        "element": "light"
+    },
+    {
+        "ID": "fairy_19",
+        "order": 19,
+        "name": "Glass Cannon",
+        "mapname": "Adventure",
+        "coord": "L8",
+        "area": "Enemy Base",
+        "element": "dark"
+    },
+    {
+        "ID": "fairy_20",
+        "order": 20,
+        "name": "Fill Special Attack",
+        "mapname": "Adventure",
+        "coord": "N1",
+        "area": "Central Chamber",
+        "element": "dark"
+    },
+    {
+        "ID": "fairy_21",
+        "order": 21,
+        "name": "Dream Sphere",
+        "mapname": "Great Sea",
+        "coord": "A1",
+        "area": "Jail Watch Keep",
+        "element": "dark"
+    },
+    {
+        "ID": "fairy_22",
+        "order": 22,
+        "name": "Total Focus",
+        "mapname": "Master Quest",
+        "coord": "F5",
+        "area": "Southeast Keep",
+        "element": "dark"
+    },
+    {
+        "ID": "fairy_23",
+        "order": 23,
+        "name": "Health Sponge",
+        "mapname": "Twilight",
+        "coord": "C7",
+        "area": "South Field Keep",
+        "element": "dark"
+    }
+]

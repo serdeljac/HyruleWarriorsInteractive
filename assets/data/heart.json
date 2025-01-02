@@ -1,0 +1,7346 @@
+[
+    {
+        "ID": "heart_250",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A1",
+        "type__1": "victory",
+        "area": ""
+    },
+    {
+        "ID": "heart_40",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_310",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_251",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_252",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_132",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B1",
+        "type__1": "treasure",
+        "area": "East Goron Keep"
+    },
+    {
+        "ID": "heart_523",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_584",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_646",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_647",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_133",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "B8",
+        "type__1": "treasure",
+        "area": "Eastern Room"
+    },
+    {
+        "ID": "heart_221",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_311",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_253",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C3",
+        "type__1": "treasure",
+        "area": "Rocky Square"
+    },
+    {
+        "ID": "heart_553",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_616",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_342",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_312",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C7",
+        "type__1": "treasure",
+        "area": "Fairy Fountain"
+    },
+    {
+        "ID": "heart_617",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "C8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_254",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_494",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_495",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_222",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_524",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_370",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_223",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_371",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "D8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_134",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_163",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_525",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_372",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_343",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_255",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_554",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "E8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_281",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "F3",
+        "type__1": "treasure",
+        "area": "South Field Keep"
+    },
+    {
+        "ID": "heart_282",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "F5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_344",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "F8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_05",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G1",
+        "type__1": "treasure",
+        "area": "West Cannon Keep"
+    },
+    {
+        "ID": "heart_555",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_585",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_313",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G4",
+        "type__1": "treasure",
+        "area": "Southeast Square"
+    },
+    {
+        "ID": "heart_556",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_586",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_314",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_648",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "G8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_587",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_165",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H2",
+        "type__1": "treasure",
+        "area": "South Garden"
+    },
+    {
+        "ID": "heart_649",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_526",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_99",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_100",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_618",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_41",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "H8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_101",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I1",
+        "type__1": "treasure",
+        "area": "King's Hall"
+    },
+    {
+        "ID": "heart_373",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_284",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_557",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_650",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_191",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_42",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I7",
+        "type__1": "treasure",
+        "area": "Fairy Fountain"
+    },
+    {
+        "ID": "heart_69",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "I8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_345",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_256",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_192",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_496",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_193",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J5",
+        "type__1": "treasure",
+        "area": "Lakeside Keep"
+    },
+    {
+        "ID": "heart_588",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_135",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "J8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_102",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_374",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_283",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_619",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_43",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K7",
+        "type__1": "treasure",
+        "area": "Fairy Fountain"
+    },
+    {
+        "ID": "heart_651",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "K8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_620",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L1",
+        "type__1": "treasure",
+        "area": "West Goron Keep"
+    },
+    {
+        "ID": "heart_652",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_497",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_527",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_136",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_498",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_70",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_528",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "L8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_164",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_194",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_195",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M3",
+        "type__1": "treasure",
+        "area": "Central Keep"
+    },
+    {
+        "ID": "heart_71",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_375",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_72",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_529",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_376",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "M8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_196",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_166",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_558",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_224",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_225",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_346",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "N8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_315",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O1",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_285",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_44",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_621",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_499",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_286",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "O8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_589",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P1",
+        "type__1": "treasure",
+        "area": "Arbiter's Keep"
+    },
+    {
+        "ID": "heart_06",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_103",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_622",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_559",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P5",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_226",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_316",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_73",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "P8",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_672",
+        "character": "toon Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "A3",
+        "type__1": "treasure",
+        "area": "West Square"
+    },
+    {
+        "ID": "heart_336",
+        "character": "zant",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "A4",
+        "type__1": "treasure",
+        "area": "Southeast Square"
+    },
+    {
+        "ID": "heart_276",
+        "character": "agitha",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "A5",
+        "type__1": "treasure",
+        "area": "South Field Keep"
+    },
+    {
+        "ID": "heart_307",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Adventure",
+        "coord": "A6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_156",
+        "character": "zelda",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "B1",
+        "type__1": "treasure",
+        "area": "Stronghold"
+    },
+    {
+        "ID": "heart_158",
+        "character": "zelda",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "B8",
+        "type__1": "treasure",
+        "area": "South Temple"
+    },
+    {
+        "ID": "heart_642",
+        "character": "skull Kid",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "C1",
+        "type__1": "treasure",
+        "area": "Central Keep"
+    },
+    {
+        "ID": "heart_337",
+        "character": "zant",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "C2",
+        "type__1": "treasure",
+        "area": "W. Mountain Keep"
+    },
+    {
+        "ID": "heart_277",
+        "character": "agitha",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "C3",
+        "type__1": "treasure",
+        "area": "Outskirts Keep"
+    },
+    {
+        "ID": "heart_95",
+        "character": "sheik",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "C5",
+        "type__1": "treasure",
+        "area": "Statue Keep"
+    },
+    {
+        "ID": "heart_549",
+        "character": "young Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "C7",
+        "type__1": "treasure",
+        "area": "Castle Keep"
+    },
+    {
+        "ID": "heart_278",
+        "character": "agitha",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "D1",
+        "type__1": "treasure",
+        "area": "Central Keep"
+    },
+    {
+        "ID": "heart_519",
+        "character": "twili Midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "D2",
+        "type__1": "treasure",
+        "area": "South Square"
+    },
+    {
+        "ID": "heart_396",
+        "character": "ghirahim",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "E4",
+        "type__1": "treasure",
+        "area": "West Keep"
+    },
+    {
+        "ID": "heart_367",
+        "character": "fi",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "E6",
+        "type__1": "treasure",
+        "area": "Academy Keep"
+    },
+    {
+        "ID": "heart_579",
+        "character": "tingle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "E8",
+        "type__1": "treasure",
+        "area": "Arbiter's Keep"
+    },
+    {
+        "ID": "heart_31",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F1",
+        "type__1": "treasure",
+        "area": "South Field Keep"
+    },
+    {
+        "ID": "heart_189",
+        "character": "ganondorf",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F2",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_520",
+        "character": "twili Midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F3",
+        "type__1": "treasure",
+        "area": "Outskirts Keep"
+    },
+    {
+        "ID": "heart_279",
+        "character": "agitha",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_521",
+        "character": "twili Midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F5",
+        "type__1": "treasure",
+        "area": "West Field Keep"
+    },
+    {
+        "ID": "heart_308",
+        "character": "midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_368",
+        "character": "fi",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "F7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_580",
+        "character": "tingle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "G2",
+        "type__1": "treasure",
+        "area": "Town Center Keep"
+    },
+    {
+        "ID": "heart_338",
+        "character": "zant",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "G4",
+        "type__1": "treasure",
+        "area": "Central Square"
+    },
+    {
+        "ID": "heart_673",
+        "character": "toon Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "G5",
+        "type__1": "treasure",
+        "area": "South Square"
+    },
+    {
+        "ID": "heart_397",
+        "character": "ghirahim",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "G8",
+        "type__1": "treasure",
+        "area": "Abandoned Fort"
+    },
+    {
+        "ID": "heart_613",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "H1",
+        "type__1": "treasure",
+        "area": "Northwest Keep"
+    },
+    {
+        "ID": "heart_550",
+        "character": "young Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "H4",
+        "type__1": "treasure",
+        "area": "Crystal Cave"
+    },
+    {
+        "ID": "heart_643",
+        "character": "skull Kid",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "H7",
+        "type__1": "treasure",
+        "area": "W. Rockface Keep"
+    },
+    {
+        "ID": "heart_126",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I1",
+        "type__1": "treasure",
+        "area": "Southeast Square"
+    },
+    {
+        "ID": "heart_398",
+        "character": "ghirahim",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I2",
+        "type__1": "treasure",
+        "area": "Northeast Keep"
+    },
+    {
+        "ID": "heart_309",
+        "character": "midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I3",
+        "type__1": "treasure",
+        "area": "Central Square"
+    },
+    {
+        "ID": "heart_581",
+        "character": "tingle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I5",
+        "type__1": "treasure",
+        "area": "West Square"
+    },
+    {
+        "ID": "heart_522",
+        "character": "twili Midna",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I7",
+        "type__1": "treasure",
+        "area": "Castle Keep"
+    },
+    {
+        "ID": "heart_674",
+        "character": "toon Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "I8",
+        "type__1": "treasure",
+        "area": "Deku Tree"
+    },
+    {
+        "ID": "heart_216",
+        "character": "darunia",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "J5",
+        "type__1": "treasure",
+        "area": "Temple Face Keep"
+    },
+    {
+        "ID": "heart_127",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "J7",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_157",
+        "character": "zelda",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "J8",
+        "type__1": "treasure",
+        "area": "N. Entrance Keep"
+    },
+    {
+        "ID": "heart_246",
+        "character": "ruto",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "K3",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_247",
+        "character": "ruto",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "K4",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_644",
+        "character": "skull Kid",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "L1",
+        "type__1": "treasure",
+        "area": "Stronghold Keep"
+    },
+    {
+        "ID": "heart_159",
+        "character": "zelda",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "L5",
+        "type__1": "treasure",
+        "area": "Lakeside Keep"
+    },
+    {
+        "ID": "heart_248",
+        "character": "ruto",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "L6",
+        "type__1": "treasure",
+        "area": "Crystal Cave"
+    },
+    {
+        "ID": "heart_551",
+        "character": "young Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "L8",
+        "type__1": "treasure",
+        "area": "S. Rockface Keep"
+    },
+    {
+        "ID": "heart_217",
+        "character": "darunia",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "M3",
+        "type__1": "treasure",
+        "area": "N. Settlement"
+    },
+    {
+        "ID": "heart_96",
+        "character": "sheik",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "M4",
+        "type__1": "treasure",
+        "area": "East Keep"
+    },
+    {
+        "ID": "heart_218",
+        "character": "darunia",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "N1",
+        "type__1": "treasure",
+        "area": "Central Chamber"
+    },
+    {
+        "ID": "heart_582",
+        "character": "tingle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "N3",
+        "type__1": "treasure",
+        "area": "West Keep"
+    },
+    {
+        "ID": "heart_219",
+        "character": "darunia",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "N6",
+        "type__1": "arank",
+        "area": ""
+    },
+    {
+        "ID": "heart_32",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "N7",
+        "type__1": "treasure",
+        "area": "Temple Square"
+    },
+    {
+        "ID": "heart_369",
+        "character": "fi",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "N8",
+        "type__1": "treasure",
+        "area": "Southeast Square"
+    },
+    {
+        "ID": "heart_339",
+        "character": "zant",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "O2",
+        "type__1": "treasure",
+        "area": "Castle Keep"
+    },
+    {
+        "ID": "heart_66",
+        "character": "Impa",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "O4",
+        "type__1": "treasure",
+        "area": "N. Entrance Keep"
+    },
+    {
+        "ID": "heart_645",
+        "character": "skull Kid",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "O6",
+        "type__1": "treasure",
+        "area": "South Temple"
+    },
+    {
+        "ID": "heart_552",
+        "character": "young Link",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "O8",
+        "type__1": "treasure",
+        "area": "N. Settlement"
+    },
+    {
+        "ID": "heart_614",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "P1",
+        "type__1": "treasure",
+        "area": "North Oasis"
+    },
+    {
+        "ID": "heart_249",
+        "character": "ruto",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "P6",
+        "type__1": "treasure",
+        "area": "King's Hall"
+    },
+    {
+        "ID": "heart_399",
+        "character": "ghirahim",
+        "type": "Heart Piece",
+        "mapname": "Adventure",
+        "coord": "P7",
+        "type__1": "treasure",
+        "area": "Northwest Keep"
+    },
+    {
+        "ID": "heart_434",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Cia's Tale - Darkness Falls",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_428",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Cia's Tale - Darkness Falls",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": "East Temple"
+    },
+    {
+        "ID": "heart_433",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Cia's Tale - The Demon Lord",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_427",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Cia's Tale - The Demon Lord",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": "Fairy Fountain"
+    },
+    {
+        "ID": "heart_400",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Cia's Tale - The Dragon of the Caves",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_425",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Cia's Tale - The Dragon of the Caves",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": "Central Keep"
+    },
+    {
+        "ID": "heart_463",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Cia's Tale - The Invasion Begins",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_459",
+        "character": "volga",
+        "type": "Heart Piece",
+        "mapname": "Cia's Tale - The Invasion Begins",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": "Goddess Fountain Keep"
+    },
+    {
+        "ID": "heart_464",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Cia's Tale - The Usurper King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_426",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Cia's Tale - The Usurper King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": "West Palace"
+    },
+    {
+        "ID": "heart_38",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Epilogue - A War of Spirit",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_366",
+        "character": "fi",
+        "type": "Heart Piece",
+        "mapname": "Epilogue - A War of Spirit",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_03",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Epilogue - Shining Beacon",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_306",
+        "character": "midna",
+        "type": "Heart Piece",
+        "mapname": "Epilogue - Shining Beacon",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_130",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Epilogue - The Sacred Sword",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_124",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Epilogue - The Sacred Sword",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_162",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Ganondorf - Battle of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_188",
+        "character": "ganondorf",
+        "type": "Heart Piece",
+        "mapname": "Ganondorf - Battle of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_160",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Ganondorf - Ganondorf's Return",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_186",
+        "character": "ganondorf",
+        "type": "Heart Piece",
+        "mapname": "Ganondorf - Ganondorf's Return",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_161",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Ganondorf - March of the Demon King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_187",
+        "character": "ganondorf",
+        "type": "Heart Piece",
+        "mapname": "Ganondorf - March of the Demon King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_04",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Grand Finale - Enduring Resolve",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_125",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Grand Finale - Enduring Resolve",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_131",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Finale - Liberation of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_65",
+        "character": "Impa",
+        "type": "Heart Piece",
+        "mapname": "Grand Finale - Liberation of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_212",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_772",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_21",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_638",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_773",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_455",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "A8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_485",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_668",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_724",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_392",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_152",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_774",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "C6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_118",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "C7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_775",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "C8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_669",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_776",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_302",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_332",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_515",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_777",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "D8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_242",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "E1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_575",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_421",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_604",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_778",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_362",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "F5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_605",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "F7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_699",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_272",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_779",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "G8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_182",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_303",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "H7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_273",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "H8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_545",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "I1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_780",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_781",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_393",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_700",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "I8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_89",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_22",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_576",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "J6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_456",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_59",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "K2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_119",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "K3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_60",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "K5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_243",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_333",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "K8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_516",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "L1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_213",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_153",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_782",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "L8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_783",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_183",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "M6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_784",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "M8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_639",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "N2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_546",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "N4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_363",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "N7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_486",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "N8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_725",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "O1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_90",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "O3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_422",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "O6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_785",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "P1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_786",
+        "character": "toon Zelda",
+        "type": "Heart Container",
+        "mapname": "Grand Travels",
+        "coord": "P5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_167",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_07",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "A3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_500",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "A4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_704",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_679",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "B3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_74",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_168",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_530",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "C4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_560",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "C5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_137",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "C7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_104",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_347",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_227",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_377",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_561",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_257",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_705",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_197",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_706",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "E7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_680",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "F1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_501",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_623",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "F4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_624",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "F6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_465",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "F7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_435",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_653",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "G4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_348",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_317",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "G7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_590",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_707",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_378",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "H6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_401",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "H7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_228",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "I1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_708",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_531",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_681",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_75",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_288",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_198",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_466",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_258",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "K1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_709",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "K6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_682",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_683",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_318",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "L4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_710",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_684",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_436",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "L7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_138",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_685",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_287",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "M6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_654",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "N3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_402",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "N4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_45",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Great Sea",
+        "coord": "N7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_729",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_33",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "C2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_730",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_731",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "E7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_675",
+        "character": "toon Link",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_732",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_733",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_734",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "K6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_735",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_615",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "M4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_129",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Great Sea",
+        "coord": "N1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_543",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_87",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "A4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_636",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "A5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_722",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_544",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "B3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_757",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "B5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_57",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_180",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_360",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "C2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_573",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "C4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_453",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "C6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_210",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_758",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_759",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "D3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_116",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_300",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_270",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "E1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_150",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_760",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_697",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_483",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_19",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "F1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_330",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_761",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "F4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_513",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "F5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_181",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_454",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_762",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "G5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_602",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_763",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "H1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_271",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "H3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_764",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_723",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_301",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "I1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_390",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_331",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_391",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_698",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_211",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_765",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_766",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_361",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_240",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "J6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_484",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "K1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_514",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "K3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_419",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_151",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "K6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_58",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_767",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_241",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_637",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_603",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_768",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_769",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "M1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_666",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_420",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "M3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_667",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "M4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_770",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_20",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "N1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_117",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "N2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_771",
+        "character": "marin",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "N3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_88",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "N5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_574",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Koholint Island",
+        "coord": "N6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_493",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Linkle's Tale - Her True Self",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_611",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Linkle's Tale - Her True Self",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_220",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Linkle's Tale - Powers Collide",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_609",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Linkle's Tale - Powers Collide",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_341",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Linkle's Tale - The Demon Lord's Plan",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_610",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Linkle's Tale - The Demon Lord's Plan",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_583",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Linkle's Tale - The Girl in the Green Tunic",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_608",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Linkle's Tale - The Girl in the Green Tunic",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_39",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Linkle's Tale - The Other Hero",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_612",
+        "character": "linkle",
+        "type": "Heart Piece",
+        "mapname": "Linkle's Tale - The Other Hero",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_787",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_788",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "A5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_23",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "A7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_640",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_802",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_423",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_304",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_803",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_789",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_61",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "B7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_214",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_394",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_334",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_577",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_215",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_457",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "C8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_790",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_804",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_805",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_791",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_806",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_244",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_807",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "D8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_62",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_517",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "E3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_726",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_808",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_547",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_91",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "F1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_154",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_809",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_185",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "F7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_245",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "F8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_810",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_487",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_120",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_792",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_670",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_793",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_606",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_811",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "G8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_812",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_701",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "H8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_548",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "I2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_813",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_92",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_424",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_794",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_795",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_702",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_796",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_814",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "J8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_578",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "K2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_395",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "K3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_488",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_364",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "K5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_155",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_815",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_816",
+        "character": "yuga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_641",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "L7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_121",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_184",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "M3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_335",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_797",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "M6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_798",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "N1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_518",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "N2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_799",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "N3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_274",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "N8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_458",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_607",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_671",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_800",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_365",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_275",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_801",
+        "character": "ravio",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "O8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_305",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "P3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_24",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "P5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_727",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Lorule",
+        "coord": "P8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_08",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_711",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_46",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_379",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_467",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_437",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_468",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "A7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_47",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_403",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_655",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_438",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_686",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_656",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_532",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "B8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_199",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_289",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "C2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_404",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_169",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "C6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_712",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "C8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_713",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "D3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_469",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_76",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_139",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_290",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "D8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_687",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_591",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_625",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_405",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_406",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_626",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "E8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_562",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_105",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_502",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_349",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_350",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_229",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "F6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_77",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_503",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_657",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_470",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_48",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_407",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_106",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "G7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_171",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_533",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_714",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_107",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_408",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_439",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "H8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_230",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "I2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_471",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_380",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_658",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_409",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "I8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_592",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_440",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_472",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_319",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_259",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_140",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "J8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_09",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_320",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_504",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_321",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_170",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_563",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_410",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "K8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_441",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "L2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_473",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_442",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_10",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_141",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "L7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_534",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_564",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "M3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_474",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_443",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "M7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_381",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "M8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_627",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_78",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_200",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_688",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_201",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_291",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "N6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_444",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "O1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_593",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "O2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_260",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "O4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_261",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "O5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_351",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "O7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_505",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "P1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_628",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "P5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_172",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "P6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_231",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Quest",
+        "coord": "P8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_460",
+        "character": "volga",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_429",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_489",
+        "character": "wizzro",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "D7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_430",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "G8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_431",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_490",
+        "character": "wizzro",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_432",
+        "character": "cia",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "K8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_491",
+        "character": "wizzro",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_492",
+        "character": "wizzro",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "M6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_461",
+        "character": "volga",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "N8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_462",
+        "character": "volga",
+        "type": "Heart Piece",
+        "mapname": "Master Quest",
+        "coord": "O1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_445",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_173",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_11",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_736",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_689",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_737",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "A7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_202",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_142",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_715",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_108",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_382",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_594",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "B7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_446",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_49",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_506",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_475",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_352",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_322",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_738",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "C7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_716",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_109",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_203",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_739",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_740",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_262",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_741",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "D7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_690",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_411",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_742",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_629",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_630",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_476",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "E7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_232",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_292",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_743",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_323",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_293",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_565",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "F7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_175",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_744",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_50",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_566",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_383",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_233",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_263",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "H1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_79",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "H3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_535",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_567",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "H7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_294",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_507",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_447",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_412",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_595",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_717",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_536",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_659",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "J1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_12",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_660",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_51",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_691",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_631",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_745",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_661",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_596",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_746",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_110",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_174",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_747",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_508",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_413",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_143",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_264",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_204",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "L7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_537",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_748",
+        "character": "medli",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_353",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_384",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_477",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_354",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_80",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "M7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_144",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "N2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_324",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "N3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_234",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "N4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_13",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "N5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_81",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Master Wind Waker",
+        "coord": "N6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_749",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_750",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "C6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_751",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_752",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_753",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_754",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_755",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_756",
+        "character": "medli",
+        "type": "Heart Piece",
+        "mapname": "Master Wind Waker",
+        "coord": "M7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_68",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Ocarina of Time - Land of Myth",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_64",
+        "character": "Impa",
+        "type": "Heart Piece",
+        "mapname": "Ocarina of Time - Land of Myth",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_190",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Ocarina of Time - The Water Temple",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_94",
+        "character": "sheik",
+        "type": "Heart Piece",
+        "mapname": "Ocarina of Time - The Water Temple",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_01",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_25",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Prologue - The Armies of Ruin",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_37",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Prologue - The Sheikah Tribesman",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_26",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Prologue - The Sheikah Tribesman",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_97",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Prologue - The Sorceress of the Valley",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_93",
+        "character": "sheik",
+        "type": "Heart Piece",
+        "mapname": "Prologue - The Sorceress of the Valley",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_67",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Prologue - The Sorceress of the Woods",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_63",
+        "character": "Impa",
+        "type": "Heart Piece",
+        "mapname": "Prologue - The Sorceress of the Woods",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_02",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Skyward Sword - Land in the Sky",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_27",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Skyward Sword - Land in the Sky",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_340",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Skyward Sword - Sealed Ambition",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_28",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Skyward Sword - Sealed Ambition",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_179",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "A2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_85",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "A3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_17",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_358",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "D7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_664",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_328",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_695",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_359",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "F5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_388",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "F6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_481",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_55",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_417",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "G6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_208",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "G8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_696",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "H3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_56",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_389",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_451",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_115",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_298",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_600",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_601",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_238",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_720",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_418",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "J1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_268",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_571",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_541",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_269",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "J8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_86",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_18",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "K5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_634",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "K6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_178",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_721",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_482",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_572",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_635",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_148",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_665",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_329",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "L8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_542",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "M1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_114",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "M4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_511",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "N1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_452",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "N4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_299",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "N5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_512",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "N6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_239",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "N7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_149",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "O4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_209",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Termina",
+        "coord": "O6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_35",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Termina",
+        "coord": "H8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_36",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Termina",
+        "coord": "M1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_295",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "B2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_14",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "B3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_52",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "B6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_478",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "B7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_325",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_145",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_326",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_111",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_414",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_509",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "C8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_538",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_448",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_692",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_296",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_632",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_415",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_176",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "D8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_385",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_235",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_568",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_15",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_82",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_718",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "E6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_16",
+        "character": "Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_355",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_356",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_597",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_662",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_177",
+        "character": "ganondorf",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_205",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "F8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_569",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_386",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_693",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_265",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_54",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_479",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_83",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "G8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_327",
+        "character": "zant",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_147",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_236",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_237",
+        "character": "ruto",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_53",
+        "character": "Impa",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_719",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "H8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_598",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_539",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_510",
+        "character": "twili Midna",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_387",
+        "character": "ghirahim",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_540",
+        "character": "young Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_207",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "I8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_570",
+        "character": "tingle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J2",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_266",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J3",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_146",
+        "character": "zelda",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_206",
+        "character": "darunia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_480",
+        "character": "wizzro",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_599",
+        "character": "linkle",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_633",
+        "character": "skull Kid",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "J8",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_267",
+        "character": "agitha",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "K1",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_449",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "K4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_694",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "K7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_416",
+        "character": "cia",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "L4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_112",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "L5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_84",
+        "character": "sheik",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "L6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_450",
+        "character": "volga",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "M4",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_357",
+        "character": "fi",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "M5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_113",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "N5",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_297",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "N6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_663",
+        "character": "toon Link",
+        "type": "Heart Container",
+        "mapname": "Twilight",
+        "coord": "O6",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_34",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Twilight",
+        "coord": "E7",
+        "type__1": "",
+        "area": ""
+    },
+    {
+        "ID": "heart_98",
+        "character": "lana",
+        "type": "Heart Container",
+        "mapname": "Twilight Princess - Land of Twilight",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_122",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Twilight Princess - Land of Twilight",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_280",
+        "character": "midna",
+        "type": "Heart Container",
+        "mapname": "Twilight Princess - The Shadow King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_123",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Twilight Princess - The Shadow King",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_676",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Wind Waker - A New Disturbance",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_29",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Wind Waker - A New Disturbance",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_678",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Wind Waker - Reclaiming the Darkness",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_728",
+        "character": "king Daphnes",
+        "type": "Heart Piece",
+        "mapname": "Wind Waker - Reclaiming the Darkness",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_677",
+        "character": "tetra",
+        "type": "Heart Container",
+        "mapname": "Wind Waker - The Search for Cia",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_128",
+        "character": "lana",
+        "type": "Heart Piece",
+        "mapname": "Wind Waker - The Search for Cia",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_703",
+        "character": "king Daphnes",
+        "type": "Heart Container",
+        "mapname": "Wind Waker - Watchers of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    },
+    {
+        "ID": "heart_30",
+        "character": "Link",
+        "type": "Heart Piece",
+        "mapname": "Wind Waker - Watchers of the Triforce",
+        "coord": "story",
+        "type__1": "treasure",
+        "area": ""
+    }
+]
