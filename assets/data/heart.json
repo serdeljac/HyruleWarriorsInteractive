@@ -3,7 +3,7 @@
         "ID": "heart_250",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A1",
         "type__1": "victory",
         "area": ""
@@ -12,7 +12,7 @@
         "ID": "heart_40",
         "character": "Impa",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A3",
         "type__1": "arank",
         "area": ""
@@ -21,7 +21,7 @@
         "ID": "heart_310",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A4",
         "type__1": "arank",
         "area": ""
@@ -30,7 +30,7 @@
         "ID": "heart_251",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A5",
         "type__1": "arank",
         "area": ""
@@ -39,7 +39,7 @@
         "ID": "heart_252",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A7",
         "type__1": "arank",
         "area": ""
@@ -48,7 +48,7 @@
         "ID": "heart_132",
         "character": "zelda",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B1",
         "type__1": "treasure",
         "area": "East Goron Keep"
@@ -57,7 +57,7 @@
         "ID": "heart_523",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B2",
         "type__1": "arank",
         "area": ""
@@ -66,7 +66,7 @@
         "ID": "heart_584",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B4",
         "type__1": "arank",
         "area": ""
@@ -75,7 +75,7 @@
         "ID": "heart_646",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B5",
         "type__1": "arank",
         "area": ""
@@ -84,7 +84,7 @@
         "ID": "heart_647",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B7",
         "type__1": "arank",
         "area": ""
@@ -93,7 +93,7 @@
         "ID": "heart_133",
         "character": "zelda",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B8",
         "type__1": "treasure",
         "area": "Eastern Room"
@@ -102,7 +102,7 @@
         "ID": "heart_221",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C1",
         "type__1": "arank",
         "area": ""
@@ -111,7 +111,7 @@
         "ID": "heart_311",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C2",
         "type__1": "arank",
         "area": ""
@@ -120,7 +120,7 @@
         "ID": "heart_253",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C3",
         "type__1": "treasure",
         "area": "Rocky Square"
@@ -129,7 +129,7 @@
         "ID": "heart_553",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C4",
         "type__1": "arank",
         "area": ""
@@ -138,7 +138,7 @@
         "ID": "heart_616",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C5",
         "type__1": "arank",
         "area": ""
@@ -147,7 +147,7 @@
         "ID": "heart_342",
         "character": "fi",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C6",
         "type__1": "arank",
         "area": ""
@@ -156,7 +156,7 @@
         "ID": "heart_312",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C7",
         "type__1": "treasure",
         "area": "Fairy Fountain"
@@ -165,7 +165,7 @@
         "ID": "heart_617",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C8",
         "type__1": "arank",
         "area": ""
@@ -174,7 +174,7 @@
         "ID": "heart_254",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D1",
         "type__1": "arank",
         "area": ""
@@ -183,7 +183,7 @@
         "ID": "heart_494",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D2",
         "type__1": "arank",
         "area": ""
@@ -192,7 +192,7 @@
         "ID": "heart_495",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D3",
         "type__1": "arank",
         "area": ""
@@ -201,7 +201,7 @@
         "ID": "heart_222",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D4",
         "type__1": "arank",
         "area": ""
@@ -210,7 +210,7 @@
         "ID": "heart_524",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D5",
         "type__1": "arank",
         "area": ""
@@ -219,7 +219,7 @@
         "ID": "heart_370",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D6",
         "type__1": "arank",
         "area": ""
@@ -228,7 +228,7 @@
         "ID": "heart_223",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D7",
         "type__1": "arank",
         "area": ""
@@ -237,7 +237,7 @@
         "ID": "heart_371",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D8",
         "type__1": "arank",
         "area": ""
@@ -246,7 +246,7 @@
         "ID": "heart_134",
         "character": "zelda",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E1",
         "type__1": "arank",
         "area": ""
@@ -255,7 +255,7 @@
         "ID": "heart_163",
         "character": "ganondorf",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E2",
         "type__1": "arank",
         "area": ""
@@ -264,7 +264,7 @@
         "ID": "heart_525",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E3",
         "type__1": "arank",
         "area": ""
@@ -273,7 +273,7 @@
         "ID": "heart_372",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E4",
         "type__1": "arank",
         "area": ""
@@ -282,7 +282,7 @@
         "ID": "heart_343",
         "character": "fi",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E6",
         "type__1": "arank",
         "area": ""
@@ -291,7 +291,7 @@
         "ID": "heart_255",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E7",
         "type__1": "arank",
         "area": ""
@@ -300,7 +300,7 @@
         "ID": "heart_554",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E8",
         "type__1": "arank",
         "area": ""
@@ -309,7 +309,7 @@
         "ID": "heart_281",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F3",
         "type__1": "treasure",
         "area": "South Field Keep"
@@ -318,7 +318,7 @@
         "ID": "heart_282",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F5",
         "type__1": "arank",
         "area": ""
@@ -327,7 +327,7 @@
         "ID": "heart_344",
         "character": "fi",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F8",
         "type__1": "arank",
         "area": ""
@@ -336,7 +336,7 @@
         "ID": "heart_05",
         "character": "Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G1",
         "type__1": "treasure",
         "area": "West Cannon Keep"
@@ -345,7 +345,7 @@
         "ID": "heart_555",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G2",
         "type__1": "arank",
         "area": ""
@@ -354,7 +354,7 @@
         "ID": "heart_585",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G3",
         "type__1": "arank",
         "area": ""
@@ -363,7 +363,7 @@
         "ID": "heart_313",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G4",
         "type__1": "treasure",
         "area": "Southeast Square"
@@ -372,7 +372,7 @@
         "ID": "heart_556",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G5",
         "type__1": "arank",
         "area": ""
@@ -381,7 +381,7 @@
         "ID": "heart_586",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G6",
         "type__1": "arank",
         "area": ""
@@ -390,7 +390,7 @@
         "ID": "heart_314",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G7",
         "type__1": "arank",
         "area": ""
@@ -399,7 +399,7 @@
         "ID": "heart_648",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G8",
         "type__1": "arank",
         "area": ""
@@ -408,7 +408,7 @@
         "ID": "heart_587",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H1",
         "type__1": "arank",
         "area": ""
@@ -417,7 +417,7 @@
         "ID": "heart_165",
         "character": "ganondorf",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H2",
         "type__1": "treasure",
         "area": "South Garden"
@@ -426,7 +426,7 @@
         "ID": "heart_649",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H3",
         "type__1": "arank",
         "area": ""
@@ -435,7 +435,7 @@
         "ID": "heart_526",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H4",
         "type__1": "arank",
         "area": ""
@@ -444,7 +444,7 @@
         "ID": "heart_99",
         "character": "lana",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H5",
         "type__1": "arank",
         "area": ""
@@ -453,7 +453,7 @@
         "ID": "heart_100",
         "character": "lana",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H6",
         "type__1": "arank",
         "area": ""
@@ -462,7 +462,7 @@
         "ID": "heart_618",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H7",
         "type__1": "arank",
         "area": ""
@@ -471,7 +471,7 @@
         "ID": "heart_41",
         "character": "Impa",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H8",
         "type__1": "arank",
         "area": ""
@@ -480,7 +480,7 @@
         "ID": "heart_101",
         "character": "lana",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I1",
         "type__1": "treasure",
         "area": "King's Hall"
@@ -489,7 +489,7 @@
         "ID": "heart_373",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I2",
         "type__1": "arank",
         "area": ""
@@ -498,7 +498,7 @@
         "ID": "heart_284",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I3",
         "type__1": "arank",
         "area": ""
@@ -507,7 +507,7 @@
         "ID": "heart_557",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I4",
         "type__1": "arank",
         "area": ""
@@ -516,7 +516,7 @@
         "ID": "heart_650",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I5",
         "type__1": "arank",
         "area": ""
@@ -525,7 +525,7 @@
         "ID": "heart_191",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I6",
         "type__1": "arank",
         "area": ""
@@ -534,7 +534,7 @@
         "ID": "heart_42",
         "character": "Impa",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I7",
         "type__1": "treasure",
         "area": "Fairy Fountain"
@@ -543,7 +543,7 @@
         "ID": "heart_69",
         "character": "sheik",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I8",
         "type__1": "arank",
         "area": ""
@@ -552,7 +552,7 @@
         "ID": "heart_345",
         "character": "fi",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J1",
         "type__1": "arank",
         "area": ""
@@ -561,7 +561,7 @@
         "ID": "heart_256",
         "character": "agitha",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J2",
         "type__1": "arank",
         "area": ""
@@ -570,7 +570,7 @@
         "ID": "heart_192",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J3",
         "type__1": "arank",
         "area": ""
@@ -579,7 +579,7 @@
         "ID": "heart_496",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J4",
         "type__1": "arank",
         "area": ""
@@ -588,7 +588,7 @@
         "ID": "heart_193",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J5",
         "type__1": "treasure",
         "area": "Lakeside Keep"
@@ -597,7 +597,7 @@
         "ID": "heart_588",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J6",
         "type__1": "arank",
         "area": ""
@@ -606,7 +606,7 @@
         "ID": "heart_135",
         "character": "zelda",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J8",
         "type__1": "arank",
         "area": ""
@@ -615,7 +615,7 @@
         "ID": "heart_102",
         "character": "lana",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K1",
         "type__1": "arank",
         "area": ""
@@ -624,7 +624,7 @@
         "ID": "heart_374",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K2",
         "type__1": "arank",
         "area": ""
@@ -633,7 +633,7 @@
         "ID": "heart_283",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K5",
         "type__1": "arank",
         "area": ""
@@ -642,7 +642,7 @@
         "ID": "heart_619",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K6",
         "type__1": "arank",
         "area": ""
@@ -651,7 +651,7 @@
         "ID": "heart_43",
         "character": "Impa",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K7",
         "type__1": "treasure",
         "area": "Fairy Fountain"
@@ -660,7 +660,7 @@
         "ID": "heart_651",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K8",
         "type__1": "arank",
         "area": ""
@@ -669,7 +669,7 @@
         "ID": "heart_620",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L1",
         "type__1": "treasure",
         "area": "West Goron Keep"
@@ -678,7 +678,7 @@
         "ID": "heart_652",
         "character": "toon Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L2",
         "type__1": "arank",
         "area": ""
@@ -687,7 +687,7 @@
         "ID": "heart_497",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L3",
         "type__1": "arank",
         "area": ""
@@ -696,7 +696,7 @@
         "ID": "heart_527",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L4",
         "type__1": "arank",
         "area": ""
@@ -705,7 +705,7 @@
         "ID": "heart_136",
         "character": "zelda",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L5",
         "type__1": "arank",
         "area": ""
@@ -714,7 +714,7 @@
         "ID": "heart_498",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L6",
         "type__1": "arank",
         "area": ""
@@ -723,7 +723,7 @@
         "ID": "heart_70",
         "character": "sheik",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L7",
         "type__1": "arank",
         "area": ""
@@ -732,7 +732,7 @@
         "ID": "heart_528",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L8",
         "type__1": "arank",
         "area": ""
@@ -741,7 +741,7 @@
         "ID": "heart_164",
         "character": "ganondorf",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M1",
         "type__1": "arank",
         "area": ""
@@ -750,7 +750,7 @@
         "ID": "heart_194",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M2",
         "type__1": "arank",
         "area": ""
@@ -759,7 +759,7 @@
         "ID": "heart_195",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M3",
         "type__1": "treasure",
         "area": "Central Keep"
@@ -768,7 +768,7 @@
         "ID": "heart_71",
         "character": "sheik",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M4",
         "type__1": "arank",
         "area": ""
@@ -777,7 +777,7 @@
         "ID": "heart_375",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M5",
         "type__1": "arank",
         "area": ""
@@ -786,7 +786,7 @@
         "ID": "heart_72",
         "character": "sheik",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M6",
         "type__1": "arank",
         "area": ""
@@ -795,7 +795,7 @@
         "ID": "heart_529",
         "character": "young Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M7",
         "type__1": "arank",
         "area": ""
@@ -804,7 +804,7 @@
         "ID": "heart_376",
         "character": "ghirahim",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M8",
         "type__1": "arank",
         "area": ""
@@ -813,7 +813,7 @@
         "ID": "heart_196",
         "character": "darunia",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N1",
         "type__1": "arank",
         "area": ""
@@ -822,7 +822,7 @@
         "ID": "heart_166",
         "character": "ganondorf",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N2",
         "type__1": "arank",
         "area": ""
@@ -831,7 +831,7 @@
         "ID": "heart_558",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N3",
         "type__1": "arank",
         "area": ""
@@ -840,7 +840,7 @@
         "ID": "heart_224",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N4",
         "type__1": "arank",
         "area": ""
@@ -849,7 +849,7 @@
         "ID": "heart_225",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N5",
         "type__1": "arank",
         "area": ""
@@ -858,7 +858,7 @@
         "ID": "heart_346",
         "character": "fi",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N8",
         "type__1": "arank",
         "area": ""
@@ -867,7 +867,7 @@
         "ID": "heart_315",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O1",
         "type__1": "arank",
         "area": ""
@@ -876,7 +876,7 @@
         "ID": "heart_285",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O2",
         "type__1": "arank",
         "area": ""
@@ -885,7 +885,7 @@
         "ID": "heart_44",
         "character": "Impa",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O4",
         "type__1": "arank",
         "area": ""
@@ -894,7 +894,7 @@
         "ID": "heart_621",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O6",
         "type__1": "arank",
         "area": ""
@@ -903,7 +903,7 @@
         "ID": "heart_499",
         "character": "twili Midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O7",
         "type__1": "arank",
         "area": ""
@@ -912,7 +912,7 @@
         "ID": "heart_286",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O8",
         "type__1": "arank",
         "area": ""
@@ -921,7 +921,7 @@
         "ID": "heart_589",
         "character": "linkle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P1",
         "type__1": "treasure",
         "area": "Arbiter's Keep"
@@ -930,7 +930,7 @@
         "ID": "heart_06",
         "character": "Link",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P2",
         "type__1": "arank",
         "area": ""
@@ -939,7 +939,7 @@
         "ID": "heart_103",
         "character": "lana",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P3",
         "type__1": "arank",
         "area": ""
@@ -948,7 +948,7 @@
         "ID": "heart_622",
         "character": "skull Kid",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P4",
         "type__1": "arank",
         "area": ""
@@ -957,7 +957,7 @@
         "ID": "heart_559",
         "character": "tingle",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P5",
         "type__1": "arank",
         "area": ""
@@ -966,7 +966,7 @@
         "ID": "heart_226",
         "character": "ruto",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P6",
         "type__1": "arank",
         "area": ""
@@ -975,7 +975,7 @@
         "ID": "heart_316",
         "character": "zant",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P7",
         "type__1": "arank",
         "area": ""
@@ -984,7 +984,7 @@
         "ID": "heart_73",
         "character": "sheik",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P8",
         "type__1": "arank",
         "area": ""
@@ -993,7 +993,7 @@
         "ID": "heart_672",
         "character": "toon Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A3",
         "type__1": "treasure",
         "area": "West Square"
@@ -1002,7 +1002,7 @@
         "ID": "heart_336",
         "character": "zant",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A4",
         "type__1": "treasure",
         "area": "Southeast Square"
@@ -1011,7 +1011,7 @@
         "ID": "heart_276",
         "character": "agitha",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A5",
         "type__1": "treasure",
         "area": "South Field Keep"
@@ -1020,7 +1020,7 @@
         "ID": "heart_307",
         "character": "midna",
         "type": "Heart Container",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "A6",
         "type__1": "arank",
         "area": ""
@@ -1029,7 +1029,7 @@
         "ID": "heart_156",
         "character": "zelda",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B1",
         "type__1": "treasure",
         "area": "Stronghold"
@@ -1038,7 +1038,7 @@
         "ID": "heart_158",
         "character": "zelda",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "B8",
         "type__1": "treasure",
         "area": "South Temple"
@@ -1047,7 +1047,7 @@
         "ID": "heart_642",
         "character": "skull Kid",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C1",
         "type__1": "treasure",
         "area": "Central Keep"
@@ -1056,7 +1056,7 @@
         "ID": "heart_337",
         "character": "zant",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C2",
         "type__1": "treasure",
         "area": "W. Mountain Keep"
@@ -1065,7 +1065,7 @@
         "ID": "heart_277",
         "character": "agitha",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C3",
         "type__1": "treasure",
         "area": "Outskirts Keep"
@@ -1074,7 +1074,7 @@
         "ID": "heart_95",
         "character": "sheik",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C5",
         "type__1": "treasure",
         "area": "Statue Keep"
@@ -1083,7 +1083,7 @@
         "ID": "heart_549",
         "character": "young Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "C7",
         "type__1": "treasure",
         "area": "Castle Keep"
@@ -1092,7 +1092,7 @@
         "ID": "heart_278",
         "character": "agitha",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D1",
         "type__1": "treasure",
         "area": "Central Keep"
@@ -1101,7 +1101,7 @@
         "ID": "heart_519",
         "character": "twili Midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "D2",
         "type__1": "treasure",
         "area": "South Square"
@@ -1110,7 +1110,7 @@
         "ID": "heart_396",
         "character": "ghirahim",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E4",
         "type__1": "treasure",
         "area": "West Keep"
@@ -1119,7 +1119,7 @@
         "ID": "heart_367",
         "character": "fi",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E6",
         "type__1": "treasure",
         "area": "Academy Keep"
@@ -1128,7 +1128,7 @@
         "ID": "heart_579",
         "character": "tingle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "E8",
         "type__1": "treasure",
         "area": "Arbiter's Keep"
@@ -1137,7 +1137,7 @@
         "ID": "heart_31",
         "character": "Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F1",
         "type__1": "treasure",
         "area": "South Field Keep"
@@ -1146,7 +1146,7 @@
         "ID": "heart_189",
         "character": "ganondorf",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F2",
         "type__1": "arank",
         "area": ""
@@ -1155,7 +1155,7 @@
         "ID": "heart_520",
         "character": "twili Midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F3",
         "type__1": "treasure",
         "area": "Outskirts Keep"
@@ -1164,7 +1164,7 @@
         "ID": "heart_279",
         "character": "agitha",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F4",
         "type__1": "arank",
         "area": ""
@@ -1173,7 +1173,7 @@
         "ID": "heart_521",
         "character": "twili Midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F5",
         "type__1": "treasure",
         "area": "West Field Keep"
@@ -1182,7 +1182,7 @@
         "ID": "heart_308",
         "character": "midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F6",
         "type__1": "arank",
         "area": ""
@@ -1191,7 +1191,7 @@
         "ID": "heart_368",
         "character": "fi",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "F7",
         "type__1": "arank",
         "area": ""
@@ -1200,7 +1200,7 @@
         "ID": "heart_580",
         "character": "tingle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G2",
         "type__1": "treasure",
         "area": "Town Center Keep"
@@ -1209,7 +1209,7 @@
         "ID": "heart_338",
         "character": "zant",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G4",
         "type__1": "treasure",
         "area": "Central Square"
@@ -1218,7 +1218,7 @@
         "ID": "heart_673",
         "character": "toon Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G5",
         "type__1": "treasure",
         "area": "South Square"
@@ -1227,7 +1227,7 @@
         "ID": "heart_397",
         "character": "ghirahim",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "G8",
         "type__1": "treasure",
         "area": "Abandoned Fort"
@@ -1236,7 +1236,7 @@
         "ID": "heart_613",
         "character": "linkle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H1",
         "type__1": "treasure",
         "area": "Northwest Keep"
@@ -1245,7 +1245,7 @@
         "ID": "heart_550",
         "character": "young Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H4",
         "type__1": "treasure",
         "area": "Crystal Cave"
@@ -1254,7 +1254,7 @@
         "ID": "heart_643",
         "character": "skull Kid",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "H7",
         "type__1": "treasure",
         "area": "W. Rockface Keep"
@@ -1263,7 +1263,7 @@
         "ID": "heart_126",
         "character": "lana",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I1",
         "type__1": "treasure",
         "area": "Southeast Square"
@@ -1272,7 +1272,7 @@
         "ID": "heart_398",
         "character": "ghirahim",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I2",
         "type__1": "treasure",
         "area": "Northeast Keep"
@@ -1281,7 +1281,7 @@
         "ID": "heart_309",
         "character": "midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I3",
         "type__1": "treasure",
         "area": "Central Square"
@@ -1290,7 +1290,7 @@
         "ID": "heart_581",
         "character": "tingle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I5",
         "type__1": "treasure",
         "area": "West Square"
@@ -1299,7 +1299,7 @@
         "ID": "heart_522",
         "character": "twili Midna",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I7",
         "type__1": "treasure",
         "area": "Castle Keep"
@@ -1308,7 +1308,7 @@
         "ID": "heart_674",
         "character": "toon Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "I8",
         "type__1": "treasure",
         "area": "Deku Tree"
@@ -1317,7 +1317,7 @@
         "ID": "heart_216",
         "character": "darunia",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J5",
         "type__1": "treasure",
         "area": "Temple Face Keep"
@@ -1326,7 +1326,7 @@
         "ID": "heart_127",
         "character": "lana",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J7",
         "type__1": "arank",
         "area": ""
@@ -1335,7 +1335,7 @@
         "ID": "heart_157",
         "character": "zelda",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "J8",
         "type__1": "treasure",
         "area": "N. Entrance Keep"
@@ -1344,7 +1344,7 @@
         "ID": "heart_246",
         "character": "ruto",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K3",
         "type__1": "arank",
         "area": ""
@@ -1353,7 +1353,7 @@
         "ID": "heart_247",
         "character": "ruto",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "K4",
         "type__1": "arank",
         "area": ""
@@ -1362,7 +1362,7 @@
         "ID": "heart_644",
         "character": "skull Kid",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L1",
         "type__1": "treasure",
         "area": "Stronghold Keep"
@@ -1371,7 +1371,7 @@
         "ID": "heart_159",
         "character": "zelda",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L5",
         "type__1": "treasure",
         "area": "Lakeside Keep"
@@ -1380,7 +1380,7 @@
         "ID": "heart_248",
         "character": "ruto",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L6",
         "type__1": "treasure",
         "area": "Crystal Cave"
@@ -1389,7 +1389,7 @@
         "ID": "heart_551",
         "character": "young Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "L8",
         "type__1": "treasure",
         "area": "S. Rockface Keep"
@@ -1398,7 +1398,7 @@
         "ID": "heart_217",
         "character": "darunia",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M3",
         "type__1": "treasure",
         "area": "N. Settlement"
@@ -1407,7 +1407,7 @@
         "ID": "heart_96",
         "character": "sheik",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "M4",
         "type__1": "treasure",
         "area": "East Keep"
@@ -1416,7 +1416,7 @@
         "ID": "heart_218",
         "character": "darunia",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N1",
         "type__1": "treasure",
         "area": "Central Chamber"
@@ -1425,7 +1425,7 @@
         "ID": "heart_582",
         "character": "tingle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N3",
         "type__1": "treasure",
         "area": "West Keep"
@@ -1434,7 +1434,7 @@
         "ID": "heart_219",
         "character": "darunia",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N6",
         "type__1": "arank",
         "area": ""
@@ -1443,7 +1443,7 @@
         "ID": "heart_32",
         "character": "Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N7",
         "type__1": "treasure",
         "area": "Temple Square"
@@ -1452,7 +1452,7 @@
         "ID": "heart_369",
         "character": "fi",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "N8",
         "type__1": "treasure",
         "area": "Southeast Square"
@@ -1461,7 +1461,7 @@
         "ID": "heart_339",
         "character": "zant",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O2",
         "type__1": "treasure",
         "area": "Castle Keep"
@@ -1470,7 +1470,7 @@
         "ID": "heart_66",
         "character": "Impa",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O4",
         "type__1": "treasure",
         "area": "N. Entrance Keep"
@@ -1479,7 +1479,7 @@
         "ID": "heart_645",
         "character": "skull Kid",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O6",
         "type__1": "treasure",
         "area": "South Temple"
@@ -1488,7 +1488,7 @@
         "ID": "heart_552",
         "character": "young Link",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "O8",
         "type__1": "treasure",
         "area": "N. Settlement"
@@ -1497,7 +1497,7 @@
         "ID": "heart_614",
         "character": "linkle",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P1",
         "type__1": "treasure",
         "area": "North Oasis"
@@ -1506,7 +1506,7 @@
         "ID": "heart_249",
         "character": "ruto",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P6",
         "type__1": "treasure",
         "area": "King's Hall"
@@ -1515,7 +1515,7 @@
         "ID": "heart_399",
         "character": "ghirahim",
         "type": "Heart Piece",
-        "mapname": "Adventure",
+        "mapname": "adventure",
         "coord": "P7",
         "type__1": "treasure",
         "area": "Northwest Keep"
