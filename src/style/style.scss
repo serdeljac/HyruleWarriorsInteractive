@@ -48,6 +48,8 @@ body {
                 user-select: none;
                 padding: 5px 7px 5px 15px;
                 margin-bottom: 2px;
+
+                &.active {background: #423702;}
                 &:hover {
                     background: #423702;
                 }
@@ -59,8 +61,7 @@ body {
 
 
 .focus {
-    background: rgb(23, 1, 15);
-    margin: 10px 0 20px;
+    margin: 0px 0 20px;
 
     &.sidebar_mini {
         max-width: calc(100% - $sidebar_mini_width - 60px);
@@ -74,22 +75,29 @@ body {
     min-height: 60vh;
 }
 
-.mainbody {
+.mapdisplay {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     width: 100%;
+
+    &_title {
+        text-align: center;
+        margin: 20px 0;
+        font-size: 2rem;
+    }
+
+    hr {
+        margin: 10px 0;
+        border: 2px solid #fff;
+        border-radius: 5px;
+    }
 }
 
 .mapzone {
     display: grid;
     grid-auto-flow: column;
-
-    &.adventure {
-        grid-template-columns: repeat(16, 1fr);
-        grid-template-rows: repeat(8, 1fr);
-        
-
-    }
 
     .node {
         background: red;

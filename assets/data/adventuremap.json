@@ -1,6 +1,7 @@
 [
     {
         "ID": "adv_001",
+        "mapname": "adventure",
         "mapcode": "adv_a1",
         "difficulty": 6,
         "mission": "Challenge Battle: Defeat 1,000 enemies in time!",
@@ -18,6 +19,7 @@
     },
     {
         "ID": "adv_002",
+        "mapname": "adventure",
         "mapcode": "adv_a2",
         "difficulty": 6,
         "mission": "Adventure Battle: Stop the healers from, well, healing!",
@@ -35,6 +37,7 @@
     },
     {
         "ID": "adv_003",
+        "mapname": "adventure",
         "mapcode": "adv_a3",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the Dinolfos Forces!",
@@ -52,6 +55,7 @@
     },
     {
         "ID": "adv_004",
+        "mapname": "adventure",
         "mapcode": "adv_a4",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the Shield Moblin Forces! Lv.1",
@@ -69,6 +73,7 @@
     },
     {
         "ID": "adv_005",
+        "mapname": "adventure",
         "mapcode": "adv_a5",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the Darknut Forces! Lv.2",
@@ -86,6 +91,7 @@
     },
     {
         "ID": "adv_006",
+        "mapname": "adventure",
         "mapcode": "adv_a6",
         "difficulty": 3,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.6",
@@ -103,6 +109,7 @@
     },
     {
         "ID": "adv_007",
+        "mapname": "adventure",
         "mapcode": "adv_a7",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all enemies! Lv.7",
@@ -120,6 +127,7 @@
     },
     {
         "ID": "adv_008",
+        "mapname": "adventure",
         "mapcode": "adv_a8",
         "difficulty": 4,
         "mission": "Adventure Battle: Defeat the enemy forces! Lv.2",
@@ -137,6 +145,7 @@
     },
     {
         "ID": "adv_009",
+        "mapname": "adventure",
         "mapcode": "adv_b1",
         "difficulty": 6,
         "mission": "Adventure Battle: Defend the allied keeps! Lv.3",
@@ -154,6 +163,7 @@
     },
     {
         "ID": "adv_010",
+        "mapname": "adventure",
         "mapcode": "adv_b2",
         "difficulty": 6,
         "mission": "Challenge Battle: Fight through the royalty quiz!",
@@ -171,6 +181,7 @@
     },
     {
         "ID": "adv_011",
+        "mapname": "adventure",
         "mapcode": "adv_b3",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the warriors of Twilight!",
@@ -188,6 +199,7 @@
     },
     {
         "ID": "adv_012",
+        "mapname": "adventure",
         "mapcode": "adv_b4",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat all enemies! Lv.4",
@@ -205,6 +217,7 @@
     },
     {
         "ID": "adv_013",
+        "mapname": "adventure",
         "mapcode": "adv_b5",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.7",
@@ -222,6 +235,7 @@
     },
     {
         "ID": "adv_014",
+        "mapname": "adventure",
         "mapcode": "adv_b6",
         "difficulty": 4,
         "mission": "Adventure Battle: Capture the enemy keeps! Lv.2",
@@ -239,6 +253,7 @@
     },
     {
         "ID": "adv_015",
+        "mapname": "adventure",
         "mapcode": "adv_b7",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat 700 enemies in time! Lv.3",
@@ -256,6 +271,7 @@
     },
     {
         "ID": "adv_016",
+        "mapname": "adventure",
         "mapcode": "adv_b8",
         "difficulty": 4,
         "mission": "Adventure Battle: Defeat the commanders of two armies! Lv.3",
@@ -273,6 +289,7 @@
     },
     {
         "ID": "adv_017",
+        "mapname": "adventure",
         "mapcode": "adv_c1",
         "difficulty": 6,
         "mission": "Adventure Battle: Fight as a warrior of darkness! Lv.3",
@@ -290,6 +307,7 @@
     },
     {
         "ID": "adv_018",
+        "mapname": "adventure",
         "mapcode": "adv_c2",
         "difficulty": 6,
         "mission": "Adventure Battle: Be like a magician and make your foes disappear!",
@@ -307,6 +325,7 @@
     },
     {
         "ID": "adv_019",
+        "mapname": "adventure",
         "mapcode": "adv_c3",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the shadow beast!",
@@ -324,6 +343,7 @@
     },
     {
         "ID": "adv_020",
+        "mapname": "adventure",
         "mapcode": "adv_c4",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat 600 enemies in time! Lv.1",
@@ -341,6 +361,7 @@
     },
     {
         "ID": "adv_021",
+        "mapname": "adventure",
         "mapcode": "adv_c5",
         "difficulty": 4,
         "mission": "Adventure Battle: Defeat the primordial beast!",
@@ -358,6 +379,7 @@
     },
     {
         "ID": "adv_022",
+        "mapname": "adventure",
         "mapcode": "adv_c6",
         "difficulty": 4,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.7",
@@ -375,6 +397,7 @@
     },
     {
         "ID": "adv_023",
+        "mapname": "adventure",
         "mapcode": "adv_c7",
         "difficulty": 4,
         "mission": "Adventure Battle: Defeat enemies while collecting treasure! Yay!",
@@ -392,6 +415,7 @@
     },
     {
         "ID": "adv_024",
+        "mapname": "adventure",
         "mapcode": "adv_c8",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.10",
@@ -409,6 +433,7 @@
     },
     {
         "ID": "adv_025",
+        "mapname": "adventure",
         "mapcode": "adv_d1",
         "difficulty": 6,
         "mission": "Adventure Battle: Fight the chosen ones!",
@@ -426,6 +451,7 @@
     },
     {
         "ID": "adv_026",
+        "mapname": "adventure",
         "mapcode": "adv_d2",
         "difficulty": 6,
         "mission": "Adventure Battle: Dash gallantly into battle!",
@@ -443,6 +469,7 @@
     },
     {
         "ID": "adv_027",
+        "mapname": "adventure",
         "mapcode": "adv_d3",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat all enemies! Lv.5",
@@ -460,6 +487,7 @@
     },
     {
         "ID": "adv_028",
+        "mapname": "adventure",
         "mapcode": "adv_d4",
         "difficulty": 3,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.5",
@@ -477,6 +505,7 @@
     },
     {
         "ID": "adv_029",
+        "mapname": "adventure",
         "mapcode": "adv_d5",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat 700 enemies in time! Lv.2",
@@ -494,6 +523,7 @@
     },
     {
         "ID": "adv_030",
+        "mapname": "adventure",
         "mapcode": "adv_d6",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.8",
@@ -511,6 +541,7 @@
     },
     {
         "ID": "adv_031",
+        "mapname": "adventure",
         "mapcode": "adv_d7",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat 700 enemies in time! Lv.1",
@@ -528,6 +559,7 @@
     },
     {
         "ID": "adv_032",
+        "mapname": "adventure",
         "mapcode": "adv_d8",
         "difficulty": 4,
         "mission": "Challenge Battle: Fight through the mystery mastery quiz!",
@@ -545,6 +577,7 @@
     },
     {
         "ID": "adv_033",
+        "mapname": "adventure",
         "mapcode": "adv_e1",
         "difficulty": 6,
         "mission": "Challenge Battle: Fight through the Triforce quiz!",
@@ -562,6 +595,7 @@
     },
     {
         "ID": "adv_034",
+        "mapname": "adventure",
         "mapcode": "adv_e2",
         "difficulty": 6,
         "mission": "Adventure Battle: Attend the Festival of Cuccos!",
@@ -579,6 +613,7 @@
     },
     {
         "ID": "adv_035",
+        "mapname": "adventure",
         "mapcode": "adv_e3",
         "difficulty": 3,
         "mission": "Challenge Battle: Fight through the action quiz!",
@@ -596,6 +631,7 @@
     },
     {
         "ID": "adv_036",
+        "mapname": "adventure",
         "mapcode": "adv_e4",
         "difficulty": 4,
         "mission": "Adventure Battle: Rescue the allied forces! Lv.2",
@@ -613,6 +649,7 @@
     },
     {
         "ID": "adv_037",
+        "mapname": "adventure",
         "mapcode": "adv_e5",
         "difficulty": 4,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.8",
@@ -630,6 +667,7 @@
     },
     {
         "ID": "adv_038",
+        "mapname": "adventure",
         "mapcode": "adv_e6",
         "difficulty": 4,
         "mission": "Adventure Battle: Defend the allied keeps! Lv.1",
@@ -647,6 +685,7 @@
     },
     {
         "ID": "adv_039",
+        "mapname": "adventure",
         "mapcode": "adv_e7",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.9",
@@ -664,6 +703,7 @@
     },
     {
         "ID": "adv_040",
+        "mapname": "adventure",
         "mapcode": "adv_e8",
         "difficulty": 4,
         "mission": "Adventure Battle: Defeat the wasteland beast!",
@@ -681,6 +721,7 @@
     },
     {
         "ID": "adv_041",
+        "mapname": "adventure",
         "mapcode": "adv_f1",
         "difficulty": 6,
         "mission": "Adventure Battle: Defeat the Demon King!",
@@ -698,6 +739,7 @@
     },
     {
         "ID": "adv_042",
+        "mapname": "adventure",
         "mapcode": "adv_f2",
         "difficulty": 6,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.14",
@@ -715,6 +757,7 @@
     },
     {
         "ID": "adv_043",
+        "mapname": "adventure",
         "mapcode": "adv_f3",
         "difficulty": 3,
         "mission": "Adventure Battle: Fight as a warrior of darkness! Lv.2",
@@ -732,6 +775,7 @@
     },
     {
         "ID": "adv_044",
+        "mapname": "adventure",
         "mapcode": "adv_f4",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat 600 enemies in time! Lv.2",
@@ -749,6 +793,7 @@
     },
     {
         "ID": "adv_045",
+        "mapname": "adventure",
         "mapcode": "adv_f5",
         "difficulty": 3,
         "mission": "Adventure Battle: Defeat the ocean beast!",
@@ -766,6 +811,7 @@
     },
     {
         "ID": "adv_046",
+        "mapname": "adventure",
         "mapcode": "adv_f6",
         "difficulty": 3,
         "mission": "Challenge Battle: Fight through the Twilight Princess quiz!",
@@ -783,6 +829,7 @@
     },
     {
         "ID": "adv_047",
+        "mapname": "adventure",
         "mapcode": "adv_f7",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all enemies! Lv.8",
@@ -800,6 +847,7 @@
     },
     {
         "ID": "adv_048",
+        "mapname": "adventure",
         "mapcode": "adv_f8",
         "difficulty": 4,
         "mission": "Challenge Battle: Fight through the Skyward Sword quiz!",
@@ -817,6 +865,7 @@
     },
     {
         "ID": "adv_049",
+        "mapname": "adventure",
         "mapcode": "adv_g1",
         "difficulty": 6,
         "mission": "Adventure Battle: Go alone--despite the danger!",
@@ -834,6 +883,7 @@
     },
     {
         "ID": "adv_050",
+        "mapname": "adventure",
         "mapcode": "adv_g2",
         "difficulty": 6,
         "mission": "Adventure Battle: Capture the enemy keeps! Lv.3",
@@ -851,6 +901,7 @@
     },
     {
         "ID": "adv_051",
+        "mapname": "adventure",
         "mapcode": "adv_g3",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.6",
@@ -868,6 +919,7 @@
     },
     {
         "ID": "adv_052",
+        "mapname": "adventure",
         "mapcode": "adv_g4",
         "difficulty": 3,
         "mission": "Adventure Battle: Fight as a warrior of darkness! Lv.1",
@@ -885,6 +937,7 @@
     },
     {
         "ID": "adv_053",
+        "mapname": "adventure",
         "mapcode": "adv_g5",
         "difficulty": 1,
         "mission": "Adventure Battle: Defeat the Moblin Forces!",
@@ -902,6 +955,7 @@
     },
     {
         "ID": "adv_054",
+        "mapname": "adventure",
         "mapcode": "adv_g6",
         "difficulty": 1,
         "mission": "Adventure Battle: Fight as a warrior of fire!",
@@ -919,6 +973,7 @@
     },
     {
         "ID": "adv_055",
+        "mapname": "adventure",
         "mapcode": "adv_g7",
         "difficulty": 0,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.1",
@@ -936,6 +991,7 @@
     },
     {
         "ID": "adv_056",
+        "mapname": "adventure",
         "mapcode": "adv_g8",
         "difficulty": 0,
         "mission": "Adventure Battle: Fight as a warrior of light! Lv.1",
@@ -953,6 +1009,7 @@
     },
     {
         "ID": "adv_057",
+        "mapname": "adventure",
         "mapcode": "adv_h1",
         "difficulty": 6,
         "mission": "Adventure Battle: Prevent the sorceress's scheme!",
@@ -970,6 +1027,7 @@
     },
     {
         "ID": "adv_058",
+        "mapname": "adventure",
         "mapcode": "adv_h2",
         "difficulty": 6,
         "mission": "Adventure Battle: Deal with uninvited guests!",
@@ -987,6 +1045,7 @@
     },
     {
         "ID": "adv_059",
+        "mapname": "adventure",
         "mapcode": "adv_h3",
         "difficulty": 3,
         "mission": "Challenge Battle: Defeat all enemies! Lv.6",
@@ -1004,6 +1063,7 @@
     },
     {
         "ID": "adv_060",
+        "mapname": "adventure",
         "mapcode": "adv_h4",
         "difficulty": 0,
         "mission": "Adventure Battle: Defeat the island beast!",
@@ -1021,6 +1081,7 @@
     },
     {
         "ID": "adv_061",
+        "mapname": "adventure",
         "mapcode": "adv_h5",
         "difficulty": 1,
         "mission": "Challenge Battle: Defeat 400 enemies in time! Lv.1",
@@ -1038,6 +1099,7 @@
     },
     {
         "ID": "adv_062",
+        "mapname": "adventure",
         "mapcode": "adv_h6",
         "difficulty": 1,
         "mission": "Challenge Battle: Fight through the weapon quiz!",
@@ -1055,6 +1117,7 @@
     },
     {
         "ID": "adv_063",
+        "mapname": "adventure",
         "mapcode": "adv_h7",
         "difficulty": 0,
         "mission": "Adventure Battle: Defeat the Darknut Forces! Lv.1",
@@ -1072,6 +1135,7 @@
     },
     {
         "ID": "adv_064",
+        "mapname": "adventure",
         "mapcode": "adv_h8",
         "difficulty": 0,
         "mission": "Challenge Battle: Defeat 300 enemies in time!",
@@ -1089,6 +1153,7 @@
     },
     {
         "ID": "adv_065",
+        "mapname": "adventure",
         "mapcode": "adv_i1",
         "difficulty": 6,
         "mission": "Adventure Battle: Weather the storm of enemy forces!",
@@ -1106,6 +1171,7 @@
     },
     {
         "ID": "adv_066",
+        "mapname": "adventure",
         "mapcode": "adv_i2",
         "difficulty": 5,
         "mission": "Adventure Battle: Defeat the enemy forces! Lv.3",
@@ -1123,6 +1189,7 @@
     },
     {
         "ID": "adv_067",
+        "mapname": "adventure",
         "mapcode": "adv_i3",
         "difficulty": 3,
         "mission": "Adventure Battle: Capture the enemy keeps! Lv.1",
@@ -1140,6 +1207,7 @@
     },
     {
         "ID": "adv_068",
+        "mapname": "adventure",
         "mapcode": "adv_i4",
         "difficulty": 0,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.1",
@@ -1157,6 +1225,7 @@
     },
     {
         "ID": "adv_069",
+        "mapname": "adventure",
         "mapcode": "adv_i5",
         "difficulty": 0,
         "mission": "Adventure Battle: Defeat the enemy forces! Lv.1",
@@ -1174,6 +1243,7 @@
     },
     {
         "ID": "adv_070",
+        "mapname": "adventure",
         "mapcode": "adv_i6",
         "difficulty": 0,
         "mission": "Challenge Battle: Fight through the forgetful foe quiz!",
@@ -1191,6 +1261,7 @@
     },
     {
         "ID": "adv_071",
+        "mapname": "adventure",
         "mapcode": "adv_i7",
         "difficulty": 0,
         "mission": "Adventure Battle: Fight as a warrior of water! Lv.1",
@@ -1208,6 +1279,7 @@
     },
     {
         "ID": "adv_072",
+        "mapname": "adventure",
         "mapcode": "adv_i8",
         "difficulty": 0,
         "mission": "Adventure Battle: Duel with the dragon knight!",
@@ -1225,6 +1297,7 @@
     },
     {
         "ID": "adv_073",
+        "mapname": "adventure",
         "mapcode": "adv_j1",
         "difficulty": 6,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.12",
@@ -1242,6 +1315,7 @@
     },
     {
         "ID": "adv_074",
+        "mapname": "adventure",
         "mapcode": "adv_j2",
         "difficulty": 5,
         "mission": "Challenge Battle: Fight through the women's weapons quiz!",
@@ -1259,6 +1333,7 @@
     },
     {
         "ID": "adv_075",
+        "mapname": "adventure",
         "mapcode": "adv_j3",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.4",
@@ -1276,6 +1351,7 @@
     },
     {
         "ID": "adv_076",
+        "mapname": "adventure",
         "mapcode": "adv_j4",
         "difficulty": 4,
         "mission": "Challenge Battle: Defeat all enemies! Lv.2",
@@ -1293,6 +1369,7 @@
     },
     {
         "ID": "adv_077",
+        "mapname": "adventure",
         "mapcode": "adv_j5",
         "difficulty": 4,
         "mission": "Adventure Battle: Fight as a warrior of fire! Lv.1",
@@ -1310,6 +1387,7 @@
     },
     {
         "ID": "adv_078",
+        "mapname": "adventure",
         "mapcode": "adv_j6",
         "difficulty": 1,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.2",
@@ -1327,6 +1405,7 @@
     },
     {
         "ID": "adv_079",
+        "mapname": "adventure",
         "mapcode": "adv_j7",
         "difficulty": 1,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.2",
@@ -1344,6 +1423,7 @@
     },
     {
         "ID": "adv_080",
+        "mapname": "adventure",
         "mapcode": "adv_j8",
         "difficulty": 5,
         "mission": "Adventure Battle: Prevent reinforcements from arriving!",
@@ -1361,6 +1441,7 @@
     },
     {
         "ID": "adv_081",
+        "mapname": "adventure",
         "mapcode": "adv_k1",
         "difficulty": 5,
         "mission": "Challenge Battle: Defend the allied keeps! Lv.2",
@@ -1378,6 +1459,7 @@
     },
     {
         "ID": "adv_082",
+        "mapname": "adventure",
         "mapcode": "adv_k2",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.12",
@@ -1395,6 +1477,7 @@
     },
     {
         "ID": "adv_083",
+        "mapname": "adventure",
         "mapcode": "adv_k3",
         "difficulty": 2,
         "mission": "Challenge Battle: Fight through the tricky quiz!",
@@ -1412,6 +1495,7 @@
     },
     {
         "ID": "adv_084",
+        "mapname": "adventure",
         "mapcode": "adv_k4",
         "difficulty": 2,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.3",
@@ -1429,6 +1513,7 @@
     },
     {
         "ID": "adv_085",
+        "mapname": "adventure",
         "mapcode": "adv_k5",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat 500 enemies in time! Lv.3",
@@ -1446,6 +1531,7 @@
     },
     {
         "ID": "adv_086",
+        "mapname": "adventure",
         "mapcode": "adv_k6",
         "difficulty": 1,
         "mission": "Challenge Battle: Defeat 400 enemies in time! Lv.2",
@@ -1463,6 +1549,7 @@
     },
     {
         "ID": "adv_087",
+        "mapname": "adventure",
         "mapcode": "adv_k7",
         "difficulty": 1,
         "mission": "Adventure Battle: Defeat the commanders of two armies! Lv.1",
@@ -1480,6 +1567,7 @@
     },
     {
         "ID": "adv_088",
+        "mapname": "adventure",
         "mapcode": "adv_k8",
         "difficulty": 5,
         "mission": "Challenge Battle: Watch out! All atacks are devastating! Lv.11",
@@ -1497,6 +1585,7 @@
     },
     {
         "ID": "adv_089",
+        "mapname": "adventure",
         "mapcode": "adv_l1",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the mountain beast!",
@@ -1514,6 +1603,7 @@
     },
     {
         "ID": "adv_090",
+        "mapname": "adventure",
         "mapcode": "adv_l2",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.3",
@@ -1531,6 +1621,7 @@
     },
     {
         "ID": "adv_091",
+        "mapname": "adventure",
         "mapcode": "adv_l3",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat 500 enemies in time! Lv.1",
@@ -1548,6 +1639,7 @@
     },
     {
         "ID": "adv_092",
+        "mapname": "adventure",
         "mapcode": "adv_l4",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat all enemies! Lv.3",
@@ -1565,6 +1657,7 @@
     },
     {
         "ID": "adv_093",
+        "mapname": "adventure",
         "mapcode": "adv_l5",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the warriors of time!",
@@ -1582,6 +1675,7 @@
     },
     {
         "ID": "adv_094",
+        "mapname": "adventure",
         "mapcode": "adv_l6",
         "difficulty": 1,
         "mission": "Adventure Battle: Rescue the allied forces! Lv.1",
@@ -1599,6 +1693,7 @@
     },
     {
         "ID": "adv_095",
+        "mapname": "adventure",
         "mapcode": "adv_l7",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat 800 enemies in time!",
@@ -1616,6 +1711,7 @@
     },
     {
         "ID": "adv_096",
+        "mapname": "adventure",
         "mapcode": "adv_l8",
         "difficulty": 5,
         "mission": "Adventure Battle: Run swiftly across the battlefield!",
@@ -1633,6 +1729,7 @@
     },
     {
         "ID": "adv_097",
+        "mapname": "adventure",
         "mapcode": "adv_m1",
         "difficulty": 6,
         "mission": "Challenge Battle: Defeat all enemies! Lv.11",
@@ -1650,6 +1747,7 @@
     },
     {
         "ID": "adv_098",
+        "mapname": "adventure",
         "mapcode": "adv_m2",
         "difficulty": 2,
         "mission": "Challenge Battle: Fight through the Ocarina of Time quiz!",
@@ -1667,6 +1765,7 @@
     },
     {
         "ID": "adv_099",
+        "mapname": "adventure",
         "mapcode": "adv_m3",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the commanders of two armies! Lv.2",
@@ -1684,6 +1783,7 @@
     },
     {
         "ID": "adv_100",
+        "mapname": "adventure",
         "mapcode": "adv_m4",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the cliff beast!",
@@ -1701,6 +1801,7 @@
     },
     {
         "ID": "adv_101",
+        "mapname": "adventure",
         "mapcode": "adv_m5",
         "difficulty": 2,
         "mission": "Challenge Battle: Fight through the tribe quiz!",
@@ -1718,6 +1819,7 @@
     },
     {
         "ID": "adv_102",
+        "mapname": "adventure",
         "mapcode": "adv_m6",
         "difficulty": 1,
         "mission": "Challenge Battle: Defeat all enemies! Lv.1",
@@ -1735,6 +1837,7 @@
     },
     {
         "ID": "adv_103",
+        "mapname": "adventure",
         "mapcode": "adv_m7",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat all enemies! Lv.10",
@@ -1752,6 +1855,7 @@
     },
     {
         "ID": "adv_104",
+        "mapname": "adventure",
         "mapcode": "adv_m8",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.11",
@@ -1769,6 +1873,7 @@
     },
     {
         "ID": "adv_105",
+        "mapname": "adventure",
         "mapcode": "adv_n1",
         "difficulty": 6,
         "mission": "Adventure Battle: Fight the chosen ones!",
@@ -1786,6 +1891,7 @@
     },
     {
         "ID": "adv_106",
+        "mapname": "adventure",
         "mapcode": "adv_n2",
         "difficulty": 6,
         "mission": "Adventure Battle: Capture the enemy keeps! Lv.4",
@@ -1803,6 +1909,7 @@
     },
     {
         "ID": "adv_107",
+        "mapname": "adventure",
         "mapcode": "adv_n3",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the warriors of time!",
@@ -1820,6 +1927,7 @@
     },
     {
         "ID": "adv_108",
+        "mapname": "adventure",
         "mapcode": "adv_n4",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat 500 enemies in time! Lv.2",
@@ -1837,6 +1945,7 @@
     },
     {
         "ID": "adv_109",
+        "mapname": "adventure",
         "mapcode": "adv_n5",
         "difficulty": 2,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.4",
@@ -1854,6 +1963,7 @@
     },
     {
         "ID": "adv_110",
+        "mapname": "adventure",
         "mapcode": "adv_n6",
         "difficulty": 2,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.5",
@@ -1871,6 +1981,7 @@
     },
     {
         "ID": "adv_111",
+        "mapname": "adventure",
         "mapcode": "adv_n7",
         "difficulty": 5,
         "mission": "Adventure Battle: Defeat the forest dragon!",
@@ -1888,6 +1999,7 @@
     },
     {
         "ID": "adv_112",
+        "mapname": "adventure",
         "mapcode": "adv_n8",
         "difficulty": 5,
         "mission": "Adventure Battle: Defeat the Shield Moblin Forces! Lv.2",
@@ -1905,6 +2017,7 @@
     },
     {
         "ID": "adv_113",
+        "mapname": "adventure",
         "mapcode": "adv_o1",
         "difficulty": 6,
         "mission": "Challenge Battle: Fight through the legendary warrior quiz!",
@@ -1922,6 +2035,7 @@
     },
     {
         "ID": "adv_114",
+        "mapname": "adventure",
         "mapcode": "adv_o2",
         "difficulty": 6,
         "mission": "Adventure Battle: Rescue the allied forces! Lv.3",
@@ -1939,6 +2053,7 @@
     },
     {
         "ID": "adv_115",
+        "mapname": "adventure",
         "mapcode": "adv_o3",
         "difficulty": 5,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.10",
@@ -1956,6 +2071,7 @@
     },
     {
         "ID": "adv_116",
+        "mapname": "adventure",
         "mapcode": "adv_o4",
         "difficulty": 5,
         "mission": "Adventure Battle: Watch out for thieves!",
@@ -1973,6 +2089,7 @@
     },
     {
         "ID": "adv_117",
+        "mapname": "adventure",
         "mapcode": "adv_o5",
         "difficulty": 2,
         "mission": "Adventure Battle: Fight as a warrior of water! Lv.2",
@@ -1990,6 +2107,7 @@
     },
     {
         "ID": "adv_118",
+        "mapname": "adventure",
         "mapcode": "adv_o6",
         "difficulty": 2,
         "mission": "Adventure Battle: Defeat the Big Poe Forces!",
@@ -2007,6 +2125,7 @@
     },
     {
         "ID": "adv_119",
+        "mapname": "adventure",
         "mapcode": "adv_o7",
         "difficulty": 5,
         "mission": "Challenge Battle: Fight through the travel memories quiz!",
@@ -2024,6 +2143,7 @@
     },
     {
         "ID": "adv_120",
+        "mapname": "adventure",
         "mapcode": "adv_o8",
         "difficulty": 5,
         "mission": "Adventure Battle: Defeat the warriors of Skyloft!",
@@ -2041,6 +2161,7 @@
     },
     {
         "ID": "adv_121",
+        "mapname": "adventure",
         "mapcode": "adv_p1",
         "difficulty": 6,
         "mission": "Adventure Battle: Take on the sword masters!",
@@ -2058,6 +2179,7 @@
     },
     {
         "ID": "adv_122",
+        "mapname": "adventure",
         "mapcode": "adv_p2",
         "difficulty": 6,
         "mission": "Adventure Battle: Fight as a warrior of water! Lv.3",
@@ -2075,6 +2197,7 @@
     },
     {
         "ID": "adv_123",
+        "mapname": "adventure",
         "mapcode": "adv_p3",
         "difficulty": 5,
         "mission": "Adventure Battle: Survive the attack of those powered-up enemies!",
@@ -2092,6 +2215,7 @@
     },
     {
         "ID": "adv_124",
+        "mapname": "adventure",
         "mapcode": "adv_p4",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat all Giant Bosses in time! Lv.13",
@@ -2109,6 +2233,7 @@
     },
     {
         "ID": "adv_125",
+        "mapname": "adventure",
         "mapcode": "adv_p5",
         "difficulty": 5,
         "mission": "Challenge Battle: Defeat all enemies! Lv.9",
@@ -2126,6 +2251,7 @@
     },
     {
         "ID": "adv_126",
+        "mapname": "adventure",
         "mapcode": "adv_p6",
         "difficulty": 5,
         "mission": "Adventure Battle: Battle across the field!",
@@ -2143,6 +2269,7 @@
     },
     {
         "ID": "adv_127",
+        "mapname": "adventure",
         "mapcode": "adv_p7",
         "difficulty": 5,
         "mission": "Adventure Battle: Watch out for falling artillery fire!",
@@ -2160,6 +2287,7 @@
     },
     {
         "ID": "adv_128",
+        "mapname": "adventure",
         "mapcode": "adv_p8",
         "difficulty": 5,
         "mission": "Challenge Battle: Watch out! All attacks are devastating! Lv.9",
