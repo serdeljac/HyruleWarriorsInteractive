@@ -39,6 +39,7 @@ export default {
     if (this.mapSelected === '') {
       this.$router.push('/');
     };
+    
   },
   methods: {
     sortDataJSON(arr: any) {
