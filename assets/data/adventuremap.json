@@ -12,10 +12,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_002",
@@ -30,10 +28,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_003",
@@ -48,10 +44,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_004",
@@ -66,10 +60,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_005",
@@ -84,10 +76,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_006",
@@ -102,10 +92,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_007",
@@ -120,10 +108,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_008",
@@ -138,10 +124,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_009",
@@ -156,10 +140,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_010",
@@ -174,10 +156,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Defeat Order: Zant, Impa, Zelda",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_011",
@@ -192,10 +172,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_012",
@@ -210,10 +188,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_013",
@@ -228,10 +204,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_014",
@@ -246,10 +220,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_015",
@@ -264,10 +236,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_016",
@@ -282,10 +252,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_017",
@@ -300,10 +268,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_018",
@@ -318,10 +284,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_019",
@@ -336,10 +300,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: West Field Keep.",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_020",
@@ -354,10 +316,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_021",
@@ -372,10 +332,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: Located in Town Center Keep",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_022",
@@ -390,10 +348,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_023",
@@ -408,10 +364,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_024",
@@ -426,10 +380,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_025",
@@ -444,10 +396,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_026",
@@ -462,10 +412,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_027",
@@ -480,10 +428,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_028",
@@ -498,10 +444,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_029",
@@ -516,10 +460,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_030",
@@ -534,10 +476,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_031",
@@ -552,10 +492,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_032",
@@ -570,10 +508,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Aeralfos, Shield Moblin, Big Poe",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_033",
@@ -588,10 +524,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Defeat Order: Ganondorf, Zelda, Link",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_034",
@@ -606,10 +540,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_035",
@@ -624,10 +556,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Aeralfos, Moblin, Lizalfos",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_036",
@@ -642,10 +572,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_037",
@@ -660,10 +588,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_038",
@@ -678,10 +604,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_039",
@@ -696,10 +620,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_040",
@@ -714,10 +636,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: North Oasis",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_041",
@@ -732,10 +652,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Boss Key: North Field Keep",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_042",
@@ -750,10 +668,8 @@
         "arank_time": 7,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_043",
@@ -768,10 +684,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_044",
@@ -786,10 +700,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_045",
@@ -804,10 +716,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: South Field Keep.",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_046",
@@ -822,10 +732,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Agitha, Agitha, Midna",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_047",
@@ -840,10 +748,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_048",
@@ -858,10 +764,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Ghirahim, Mobiln, Fi",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_049",
@@ -876,10 +780,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_050",
@@ -894,10 +796,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_051",
@@ -912,10 +812,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_052",
@@ -930,10 +828,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_053",
@@ -948,10 +844,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_054",
@@ -966,10 +860,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_055",
@@ -984,10 +876,8 @@
         "arank_time": 7,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_056",
@@ -1002,10 +892,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_057",
@@ -1020,10 +908,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_058",
@@ -1038,10 +924,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_059",
@@ -1056,10 +940,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_060",
@@ -1074,10 +956,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_061",
@@ -1092,10 +972,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_062",
@@ -1110,10 +988,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "Defeat Order: Darknut, Stalmaster, Moblin",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_063",
@@ -1128,10 +1004,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_064",
@@ -1146,10 +1020,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_065",
@@ -1164,10 +1036,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_066",
@@ -1182,10 +1052,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_067",
@@ -1200,10 +1068,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_068",
@@ -1218,10 +1084,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_069",
@@ -1236,10 +1100,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_070",
@@ -1254,10 +1116,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "Defeat Order: Moblin, Big Poe, Shield Moblin",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_071",
@@ -1272,10 +1132,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_072",
@@ -1290,10 +1148,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_073",
@@ -1308,10 +1164,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_074",
@@ -1326,10 +1180,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Defeat Order: Lana, Lana, Midna",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_075",
@@ -1344,10 +1196,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_076",
@@ -1362,10 +1212,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_077",
@@ -1380,10 +1228,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_078",
@@ -1398,10 +1244,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_079",
@@ -1416,10 +1260,8 @@
         "arank_time": 7,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_080",
@@ -1434,10 +1276,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_081",
@@ -1452,10 +1292,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_082",
@@ -1470,10 +1308,8 @@
         "arank_time": 7,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_083",
@@ -1488,10 +1324,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Big Poe, ReDead Knight, Sheik",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_084",
@@ -1506,10 +1340,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_085",
@@ -1524,10 +1356,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_086",
@@ -1542,10 +1372,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_087",
@@ -1560,10 +1388,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_088",
@@ -1578,10 +1404,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_089",
@@ -1596,10 +1420,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: East Goron Keep",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_090",
@@ -1614,10 +1436,8 @@
         "arank_time": 7,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_091",
@@ -1632,10 +1452,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_092",
@@ -1650,10 +1468,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_093",
@@ -1668,10 +1484,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_094",
@@ -1686,10 +1500,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_095",
@@ -1704,10 +1516,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_096",
@@ -1722,10 +1532,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_097",
@@ -1740,10 +1548,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_098",
@@ -1758,10 +1564,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat order: Darunia, Sheik, Ruto",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_099",
@@ -1776,10 +1580,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_100",
@@ -1794,10 +1596,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Boss Key: West Temple",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_101",
@@ -1812,10 +1612,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "Defeat Order: Ruto, Impa, Darunia",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_102",
@@ -1830,10 +1628,8 @@
         "arank_time": 15,
         "arank_damage": 99,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_103",
@@ -1848,10 +1644,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_104",
@@ -1866,10 +1660,8 @@
         "arank_time": 7,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_105",
@@ -1884,10 +1676,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_106",
@@ -1902,10 +1692,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_107",
@@ -1920,10 +1708,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_108",
@@ -1938,10 +1724,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_109",
@@ -1956,10 +1740,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_110",
@@ -1974,10 +1756,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_111",
@@ -1992,10 +1772,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Boss Key: North Square",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_112",
@@ -2010,10 +1788,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_113",
@@ -2028,10 +1804,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Defeat Order: Ruto, Agitha, Ganondorf",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_114",
@@ -2046,10 +1820,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_115",
@@ -2064,10 +1836,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_116",
@@ -2082,10 +1852,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_117",
@@ -2100,10 +1868,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_118",
@@ -2118,10 +1884,8 @@
         "arank_time": 15,
         "arank_damage": 149,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_119",
@@ -2136,10 +1900,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "Defeat Order: Lizalfos, Wizzro, Cia",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_120",
@@ -2154,10 +1916,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_121",
@@ -2172,10 +1932,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_122",
@@ -2190,10 +1948,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_123",
@@ -2208,10 +1964,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_124",
@@ -2226,10 +1980,8 @@
         "arank_time": 7,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_125",
@@ -2244,10 +1996,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_126",
@@ -2262,10 +2012,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_127",
@@ -2280,10 +2028,8 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     },
     {
         "ID": "adv_128",
@@ -2298,9 +2044,7 @@
         "arank_time": 15,
         "arank_damage": 199,
         "notes": "",
-        "victory1": "",
-        "victory2": "",
-        "victory3": "",
-        "victory4": ""
+        "treasure": "",
+        "filter": ""
     }
 ]

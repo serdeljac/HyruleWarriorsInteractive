@@ -8,9 +8,10 @@
                 </div>
             </div>
         </div>
-        <p v-if="fullTileInfo.length == 0">No Data to show</p>
-        <p v-else>{{fullTileInfo}} <br /> {{fullTileInfo.reward_victory}}</p>
-        <p></p>
+
+        <ul v-if="fullTileInfo">
+            {{ fullTileInfo }}
+        </ul>
         
     </section>
 </template>
@@ -24,43 +25,49 @@ export default {
         return {
             mapTileData: undefined,
             fullmapAppend: adventureDATA,
-            fullTileInfo: []
+            fullTileInfo: '',
         }
     },
     props: ['mapDimensions', 'mapSelected', 'mapInfo'],
+    created() {
+        for (let i = 0; i < this.fullmapAppend.length; i++) {
+            let mapcode = this.fullmapAppend[i].mapcode
+            let tileRewards = this.mapInfo.filter((d: any) => d.mapcode === mapcode)
+
+            let filterVariables = {
+                'heartcontain': this.checkFilter('heartcontainer', tileRewards),
+                'heartpiece': this.checkFilter('heartpiece', tileRewards),
+                'weapon': this.checkFilter('weapon', tileRewards),
+                'skulltula': this.checkFilter('skulltula', tileRewards),
+                'fairy': this.checkFilter('fairy', tileRewards),
+                'salon': this.checkFilter('salon', tileRewards),
+                'character': this.checkFilter('character', tileRewards),
+                'food': this.checkFilter('food', tileRewards),
+                'costume': this.checkFilter('costume', tileRewards),
+            }
+            this.fullmapAppend[i].filter = filterVariables
+            this.fullmapAppend[i].reward_arank = this.appendRewards('arank', tileRewards, this.fullmapAppend[i].reward_arank)
+
+            console.table(this.fullmapAppend[i])
+        }
+    },
     methods: {
         getGridDimensions(dim: any) {
             let setWidth = dim[0] * 80;
             return `grid-template-columns: repeat(${dim[0]}, 1fr); grid-template-rows: repeat(${dim[1]}, 1fr); width: ${setWidth}px;`;
         },
+        checkFilter(condition: string, arr: []) {
+            let results = arr.filter((d: any) => d.identity === condition);
+            return results.length > 0 ? true : false
+        },
+        appendRewards(type: string, arr: [], defaultReward: string) {
+
+            let results = arr.filter((d: any) => d.aquire === type);
+            let reward_init = [defaultReward, '']
+        },
         getTileInfo(tile: string) {
             let tileInfo = this.fullmapAppend.filter((d: any) => d.mapcode === tile)[0];
-            const rewards = this.mapInfo.filter((d: any) => d.mapcode === tile);
-            console.table(tileInfo)
-            console.table(rewards)
-
-            // Fetch A Rank Reward
-            if (!tileInfo.reward_arank) {
-                let arankVic = rewards.filter((d: any) => d.aquire === 'arank')[0];
-                arankVic ? tileInfo.reward_arank = [arankVic.name, arankVic.character] : '';
-            }
-
-            //Fetch Victory Reward
-            let victoryReward = rewards.filter((d: any) => d.aquire === 'victory')[0];
-            let victoryReward2 = tileInfo.reward_victory;
-
-            if (victoryReward | victoryReward2) {
-                tileInfo.reward_victory = []
-                tileInfo.reward_victory.push(victoryReward, victoryReward2)
-            }
-
-            //Fetch Heart Container (Treasure 1)
-            //Fetch Heart Piece (Treasure 2)
-            //Fetch Skulltula (if not, other treasure) (Treasure 3)
-            //Fetch Skulltula (if not, fairy food) (Treasure 4)
-
             this.fullTileInfo = tileInfo
-
         }
     }
 }
