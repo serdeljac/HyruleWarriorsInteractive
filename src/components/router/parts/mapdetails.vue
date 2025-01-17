@@ -18,7 +18,7 @@
         </div>
 
         <div class="mapdetails_gridblock mission">
-            <h2>{{ `[${fixMapCode(fullTileInfo.mapcode)}] ${fullTileInfo.mission}` }}</h2>
+            <h2>{{ `[${fixMapCode(fullTileInfo.mapcode)}] ${fullTileInfo.mission} - ${fullTileInfo.difficulty}` }}</h2>
             <p v-if="fullTileInfo.notes">{{ fullTileInfo.notes }}</p>
         </div>
 
