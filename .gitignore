@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 
-*.jpg
-*.png
-*.xlsx
 *.psd
+*.xlsx
+/assets/icons
+/assets/mapimg

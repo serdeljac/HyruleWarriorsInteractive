@@ -12,6 +12,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -28,6 +29,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -44,6 +46,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -60,6 +63,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -76,6 +80,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -92,6 +97,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -108,6 +114,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -124,6 +131,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -140,6 +148,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -156,7 +165,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Zant, Impa, Zelda",
+        "type": "quiz",
+        "notes": "Zant > Impa > Zelda",
         "filter": ""
     },
     {
@@ -172,6 +182,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -188,6 +199,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -204,6 +216,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -220,6 +233,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -236,6 +250,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -252,6 +267,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -268,6 +284,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -284,6 +301,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -300,7 +318,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: West Field Keep.",
+        "type": "key",
+        "notes": "West Field Keep",
         "filter": ""
     },
     {
@@ -316,6 +335,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -332,7 +352,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: Located in Town Center Keep",
+        "type": "key",
+        "notes": "Town Center Keep",
         "filter": ""
     },
     {
@@ -348,6 +369,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -364,6 +386,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -380,6 +403,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -396,6 +420,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -412,6 +437,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -428,6 +454,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -444,6 +471,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -460,6 +488,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -476,6 +505,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -492,6 +522,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -508,7 +539,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Aeralfos, Shield Moblin, Big Poe",
+        "type": "quiz",
+        "notes": "Aeralfos > Shield Moblin > Big Poe",
         "filter": ""
     },
     {
@@ -524,7 +556,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Ganondorf, Zelda, Link",
+        "type": "quiz",
+        "notes": "Ganondorf > Zelda > Link",
         "filter": ""
     },
     {
@@ -540,6 +573,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -556,7 +590,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Aeralfos, Moblin, Lizalfos",
+        "type": "quiz",
+        "notes": "Aeralfos > Moblin > Lizalfos",
         "filter": ""
     },
     {
@@ -572,6 +607,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -588,6 +624,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -604,6 +641,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -620,6 +658,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -636,7 +675,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: North Oasis",
+        "type": "key",
+        "notes": "North Oasis",
         "filter": ""
     },
     {
@@ -652,7 +692,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: North Field Keep",
+        "type": "key",
+        "notes": "North Field Keep",
         "filter": ""
     },
     {
@@ -668,6 +709,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -678,12 +720,13 @@
         "difficulty": 3,
         "mission": "Adventure Battle: Fight as a warrior of darkness! Lv.2",
         "search": "TRUE",
-        "arank_ko": 12200,
+        "arank_ko": 1200,
         "arank_time": 15,
         "arank_damage": 149,
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -700,6 +743,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -716,7 +760,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: South Field Keep.",
+        "type": "key",
+        "notes": "South Field Keep",
         "filter": ""
     },
     {
@@ -732,7 +777,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Agitha, Agitha, Midna",
+        "type": "quiz",
+        "notes": "Agitha > Agitha > Midna",
         "filter": ""
     },
     {
@@ -748,6 +794,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -764,7 +811,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Ghirahim, Mobiln, Fi",
+        "type": "quiz",
+        "notes": "Ghirahim > Mobiln > Fi",
         "filter": ""
     },
     {
@@ -780,6 +828,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -796,6 +845,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -812,6 +862,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -828,6 +879,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -844,6 +896,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -860,6 +913,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -876,6 +930,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -892,6 +947,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -908,6 +964,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -924,6 +981,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -940,6 +998,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -956,7 +1015,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "",
+        "type": "key",
+        "notes": "North Square",
         "filter": ""
     },
     {
@@ -972,6 +1032,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -988,7 +1049,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Darknut, Stalmaster, Moblin",
+        "type": "quiz",
+        "notes": "Darknut > Stalmaster > Moblin",
         "filter": ""
     },
     {
@@ -1004,6 +1066,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1020,6 +1083,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1036,6 +1100,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1052,6 +1117,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1068,6 +1134,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1084,6 +1151,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1100,6 +1168,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1116,7 +1185,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Moblin, Big Poe, Shield Moblin",
+        "type": "quiz",
+        "notes": "Moblin > Big Poe > Shield Moblin",
         "filter": ""
     },
     {
@@ -1132,6 +1202,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1148,6 +1219,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1164,6 +1236,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1180,7 +1253,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Lana, Lana, Midna",
+        "type": "quiz",
+        "notes": "Lana > Lana > Midna",
         "filter": ""
     },
     {
@@ -1196,6 +1270,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1212,6 +1287,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1228,6 +1304,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1244,6 +1321,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1260,6 +1338,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1276,6 +1355,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1292,6 +1372,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1308,6 +1389,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1324,7 +1406,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Big Poe, ReDead Knight, Sheik",
+        "type": "quiz",
+        "notes": "Big Poe > ReDead Knight > Sheik",
         "filter": ""
     },
     {
@@ -1340,6 +1423,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1356,6 +1440,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1372,6 +1457,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1388,6 +1474,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1404,6 +1491,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1420,7 +1508,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: East Goron Keep",
+        "type": "key",
+        "notes": "East Goron Keep",
         "filter": ""
     },
     {
@@ -1436,6 +1525,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1452,6 +1542,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1468,6 +1559,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1484,6 +1576,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1500,6 +1593,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1516,6 +1610,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1532,6 +1627,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1548,6 +1644,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1564,7 +1661,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat order: Darunia, Sheik, Ruto",
+        "type": "quiz",
+        "notes": "Darunia > Sheik > Ruto",
         "filter": ""
     },
     {
@@ -1580,6 +1678,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1596,7 +1695,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: West Temple",
+        "type": "key",
+        "notes": "West Temple",
         "filter": ""
     },
     {
@@ -1612,7 +1712,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Ruto, Impa, Darunia",
+        "type": "quiz",
+        "notes": "Ruto > Impa > Darunia",
         "filter": ""
     },
     {
@@ -1628,6 +1729,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1644,6 +1746,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1660,6 +1763,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1676,6 +1780,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1692,6 +1797,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1708,6 +1814,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1724,6 +1831,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1740,6 +1848,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1756,6 +1865,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1772,7 +1882,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Boss Key: North Square",
+        "type": "key",
+        "notes": "North Square",
         "filter": ""
     },
     {
@@ -1788,6 +1899,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1804,7 +1916,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Ruto, Agitha, Ganondorf",
+        "type": "quiz",
+        "notes": "Ruto > Agitha > Ganondorf",
         "filter": ""
     },
     {
@@ -1820,6 +1933,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1836,6 +1950,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1852,6 +1967,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1868,6 +1984,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1884,6 +2001,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1900,7 +2018,8 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
-        "notes": "Defeat Order: Lizalfos, Wizzro, Cia",
+        "type": "quiz",
+        "notes": "Lizalfos > Wizzro > Cia",
         "filter": ""
     },
     {
@@ -1916,6 +2035,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1932,6 +2052,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1948,6 +2069,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1964,6 +2086,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1980,6 +2103,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -1996,6 +2120,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -2012,6 +2137,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -2028,6 +2154,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     },
@@ -2044,6 +2171,7 @@
         "reward_arank": "",
         "reward_victory": "",
         "treasure": "",
+        "type": "",
         "notes": "",
         "filter": ""
     }

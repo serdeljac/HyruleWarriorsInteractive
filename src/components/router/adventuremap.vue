@@ -16,9 +16,10 @@
         <div class="mapzone" :class="mapSelected" :style="getGridDimensions(mapDimensions)">
             <div v-for="d in fullmapAppend" :key="d.ID" class="node" :class="`${d.mapcode}`"
                 @click="getTileInfo(d.mapcode, d)">
-                <div class="wrapper">
-                    <img :src="`../assets/mapimg/adventure/${d.mapcode}.jpg`" :alt="`${d.mapcode}`" :class="`mapimg`"/>
+                <div class="wrapper" :style="`background-image:url(../assets/mapimg/${mapSelected}/${d.mapcode}.webp)`">
+                    <p>{{ `${d.mapcode}` }}</p>
                     <div class="tile" v-if="filter.difficulty" :class="`diff-style diff-${d.difficulty}`"></div>
+
                     <div class="tile" v-if="filter.heart" :class="`heart-style`">
                         <img v-if="checkFilterAppend(d.mapcode, 'heartcontainer')" :src="`../assets/icons/heartcontainer.png`" />
                         <img v-if="checkFilterAppend(d.mapcode, 'heartpiece')" :src="`../assets/icons/heartpiece.png`" />
@@ -147,7 +148,6 @@ export default {
             return results
         },
         getTileInfo(tile: string,d: any) {
-            console.log(d)
             let tileInfo = this.fullmapAppend.filter((d: any) => d.mapcode === tile)[0];
             this.fullTileInfo = tileInfo
         },

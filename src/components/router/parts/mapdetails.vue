@@ -6,12 +6,14 @@
                 <div class="tab" :class="!search_image ? 'active' : ''" @click="search_image = false">Locations</div>
             </div>
             <div class="mapimg_select">
-                <div v-if="search_image" class="img" :style="`background-image:url(../../assets/mapimg/${mapSelected}/${fullTileInfo.mapcode}_unlock.jpg)`">
+                <div v-if="search_image" class="img" :style="`background-image:url(../../assets/mapimg/${mapSelected}/unlocks/${fullTileInfo.mapcode}_unlock.webp)`">
                     <ul v-if="!fullTileInfo.search"><li>Nothing to search</li></ul>
                 </div>
                 <div v-else>
                     <ul>
-                        <li  v-for="d in fullTileInfo.treasure" :key="d.ID">{{ displayLocations(d) }}</li>
+                        <li v-for="d in fullTileInfo.treasure" :key="d.ID">{{ displayLocations(d) }}</li>
+                        <li v-if="fullTileInfo.type == 'key'">{{ `Key Location: ${fullTileInfo.notes}` }}</li>
+                        <li v-if="fullTileInfo.type == 'quiz'">{{ `Defeat Order: ${fullTileInfo.notes}` }}</li>
                     </ul>
                 </div>
             </div>
@@ -19,7 +21,6 @@
 
         <div class="mapdetails_gridblock mission">
             <h2>{{ `[${fixMapCode(fullTileInfo.mapcode)}] ${fullTileInfo.mission} - ${fullTileInfo.difficulty}` }}</h2>
-            <p v-if="fullTileInfo.notes">{{ fullTileInfo.notes }}</p>
         </div>
 
         <div class="mapdetails_gridblock arank">
