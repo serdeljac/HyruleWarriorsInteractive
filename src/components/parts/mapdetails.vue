@@ -179,7 +179,7 @@
 
                 <div class="subblock">
                     <h3>A Rank Damage</h3>
-                    <p v-if="tileData.arank_damage">{{ tileData.arank_damage }}</p>
+                    <p v-if="tileData.arank_damage">{{ `${tileData.arank_damage}% Health` }}</p>
                     <p v-else>-</p>
                 </div>
                 <div class="subblock">

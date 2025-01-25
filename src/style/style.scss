@@ -319,7 +319,7 @@ body {
             align-items: center;
             text-transform: uppercase;
 
-            &.disable {opacity: 0.1}
+            &.disable {visibility: hidden;}
 
             .weapon_wrapper {
                 display: flex;

@@ -155,7 +155,7 @@ export default {
         },
         fetchTileData(arr: any) {
             let compiledTileData = arr
-            compiledTileData.search = compiledTileData.search == 'TRUE' ? true : false
+            compiledTileData.search = compiledTileData.search === 'FALSE' ? false : true
             compiledTileData.reward_arank = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'arank')
             compiledTileData.reward_victory = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'victory')
             compiledTileData.treasure = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'treasure')
