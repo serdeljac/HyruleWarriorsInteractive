@@ -11,6 +11,8 @@ const router = createRouter({
     routes: [
         { path: '/', component: home },
         { path: `/adventuremap`, component: mapDisplay, props: true },
+        { path: `/greatseamap`, component: mapDisplay, props: true },
+        { path: `/masterquest`, component: mapDisplay, props: true },
     ],
     linkExactActiveClass: 'active-link'
 })

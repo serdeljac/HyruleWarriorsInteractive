@@ -2,14 +2,16 @@
   <div>
     <sidebar @newPageSelect="selectMapData"/>
     <main class="focus" :class="sidebar_full ? 'sidebar_full' : 'sidebar_mini'">
-      <router-view :mapDimensions="mapDimensions" :mapSelected="mapSelected" :mapInfo="mapInfo"></router-view>
+      <router-view :mapData="adventuremode"></router-view>
     </main>
   </div>
 </template>
 
 <script lang="ts">
 import sidebar from './components/sidebar.vue';
-import fullDataJSON from '../assets/data/fulldata.json';
+
+import tiledataJSON from '../assets/data/tiledata.json'
+import treasureJSON from '../assets/data/treasures.json';
 
 export default {
   name: "App Assembly",
@@ -17,6 +19,12 @@ export default {
   data() {
     return {
       sidebar_full: true,
+
+      //Fetch JSON Data
+      fullTileData: this.sortData(tiledataJSON),
+      fullTreasureData: this.sortData(treasureJSON),
+
+      //Each map Dimensions
       dimensions: {
         'adventure': [16, 8],
         'greatsea': [14, 7],
@@ -29,20 +37,41 @@ export default {
         'lorule': [16, 8],
         'rewards': [16, 8]
       },
-      fulldata: this.sortDataJSON(fullDataJSON),
-      mapDimensions: [],
-      mapSelected: '',
-      mapInfo: []
+
+      //Each map Level Range
+      levelRange: {
+        'adventure': '1-30',
+        'greatsea': '1-30',
+        'masterquest': '',
+        'masterwindwaker': '',
+        'twilight': '',
+        'termina': '',
+        'koholintisland': '',
+        'grandtravels': '',
+        'lorule': '',
+        'rewards': ''
+      },
+
+      //Prop data for adventure mode pages
+      adventuremode: {
+        mapname: '',
+        levelRange: '',
+        dimensions: [],
+        tileData: [],
+        treasureData: []
+      },
+
+      //Prop data for item list pages
+      itemList: []
+
     }
   },
   created() {
-    if (this.mapSelected === '') {
-      this.$router.push('/');
-    };
-    
+    //Load Home Page on every refresh
+    if (this.adventuremode.mapname === '') {this.$router.push('/');};
   },
   methods: {
-    sortDataJSON(arr: any) {
+    sortData(arr: any) {
       let legend = arr.filter((d: any) => d.mapname === 'legend');
       let adventure = arr.filter((d: any) => d.mapname === 'adventure');
       let greatsea = arr.filter((d: any) => d.mapname === 'greatsea');
@@ -69,10 +98,15 @@ export default {
         'rewards': rewards
       };
     },
+
     selectMapData(e: string) {
-      this.mapDimensions = this.dimensions[e];
-      this.mapSelected = e;
-      this.mapInfo = this.fulldata[e];
+      e == 'home' ? this.$router.push('/') : this.$router.push(`/${e}map`);
+      this.adventuremode.mapname = e
+      this.adventuremode.levelRange = this.levelRange[e]
+      this.adventuremode.dimensions = this.dimensions[e]
+      this.adventuremode.tileData = this.fullTileData[e]
+      this.adventuremode.treasureData = this.fullTreasureData[e]
+      console.log(this.adventuremode)
     }
   },
 }

@@ -1,23 +1,25 @@
 <template>
     <section class="mapdisplay">
-        <h1 class="mapdisplay_title">{{ mapSelected }} Map</h1>
+        
+        <h1 class="mapdisplay_title">{{ mapData.mapname }} Map</h1>
+
         <div class="mapdisplay_filter">
+            <p @click="changeFilter('card')">Card</p>
             <p @click="changeFilter('difficulty')">Difficulty</p>
             <p @click="changeFilter('heart')">Heart</p>
-            <p @click="changeFilter('weapon')">Weapon</p>
             <p @click="changeFilter('skulltula')">Skulltula</p>
+            <p @click="changeFilter('weapon')">Weapon</p>
+            <p @click="changeFilter('character')">Character</p>
+            <p @click="changeFilter('costume')">Costume</p>
             <p @click="changeFilter('fairy')">Fairy</p>
             <p @click="changeFilter('salon')">Salon</p>
-            <p @click="changeFilter('character')">Character</p>
             <p @click="changeFilter('food')">Food</p>
-            <p @click="changeFilter('costume')">Costume</p>
-            <p @click="changeFilter('card')">Card</p>
         </div>
-        <div class="mapzone" :class="mapSelected" :style="getGridDimensions(mapDimensions)">
-            <div v-for="d in fullmapAppend" :key="d.ID" class="node" :class="`${d.mapcode}`"
-                @click="getTileInfo(d.mapcode, d)">
-                <div class="wrapper" :style="`background-image:url(../assets/mapimg/${mapSelected}/${d.mapcode}.webp)`">
-                    <p>{{ `${d.mapcode}` }}</p>
+
+        <div class="mapzone" :class="mapData.mapname" :style="getGridDimensions(mapData.dimensions)">
+            <div v-for="d in mapData.tileData" :key="d.ID" class="node" :class="`${d.mapcode}`" @click="fetchTileData(d)">
+                <div class="wrapper" :style="`background-image:url(../assets/mapimg/${mapData.mapname}/${d.mapcode}.webp)`">
+
                     <div class="tile" v-if="filter.difficulty" :class="`diff-style diff-${d.difficulty}`"></div>
 
                     <div class="tile" v-if="filter.heart" :class="`heart-style`">
@@ -55,29 +57,47 @@
                     </div>
 
                     <div class="tile" v-if="filter.card" :class="`card-style`">
-                        <img v-if="checkFilterAppend(d.mapcode, 'card')" :src="`../assets/icons/${d.reward_victory[0].character}.jpg`" />
+                        <img v-if="checkFilterAppend(d.mapcode, 'card')" :src="`../assets/icons/${checkCard(d.mapcode)}.jpg`" />
                     </div>
 
                 </div>
             </div>
         </div>
 
-        <mapdetails :mapSelected="mapSelected" :fullTileInfo="fullTileInfo" v-if="fullTileInfo" />
+        <div class="difficulty_legend" v-if="filter.difficulty">
+
+            <div  class="difficulty_legend-modes">
+                <p class="difficulty_legend-subheader">Map Level</p>
+                <p class="difficulty_legend-content">{{ `Levels ${mapData.levelRange} Recommended` }}</p>
+            </div>
+
+            <div class="difficulty_legend-modes">
+                <p class="difficulty_legend-subheader">Difficulty Zones [Easy to Hard]</p>
+                <div class="difficulty_legend-content">
+                    <p>BLACK</p> ➨
+                    <p>GREEN</p> ➨
+                    <p>YELLOW</p> ➨
+                    <p>PURPLE</p> ➨
+                    <p>ORANGE</p> ➨
+                    <p>BLUE</p> ➨
+                    <p>RED</p>
+                </div>
+            </div>
+        </div>
+
+        <mapdetails :tileData="tileData" v-if="tileData" />
 
     </section>
 </template>
 
 <script lang="ts">
-import adventureDATA from '../../../assets/data/adventuremap.json'
-import mapdetails from './parts/mapdetails.vue'
+import mapdetails from '../parts/mapdetails.vue'
 
 export default {
     name: "Map Display",
+    props: ['mapData'],
     data() {
         return {
-            mapTileData: undefined,
-            fullmapAppend: adventureDATA,
-            fullTileInfo: '',
             filter: {
                 'heart': false,
                 'weapon': false,
@@ -89,53 +109,18 @@ export default {
                 'costume': false,
                 'difficulty': false,
                 'card': false
-            }
+            },
+            tileData: ''
         }
     },
-    props: ['mapDimensions', 'mapSelected', 'mapInfo'],
     components: { mapdetails },
-    created() {
-        for (let i = 0; i < this.fullmapAppend.length; i++) {
-            //Simple Change to boolean values
-            this.fullmapAppend[i].search = this.fullmapAppend[i].search === "FALSE" ? false : true
-
-            //Fetch each tiles rewards
-            let mapcode = this.fullmapAppend[i].mapcode
-            let tileRewards = this.mapInfo.filter((d: any) => d.mapcode === mapcode)
-
-            //Add boolean values to reward types for filters
-            let filterVariables = {
-                'heartcontain': this.checkFilter('heartcontainer', tileRewards),
-                'heartpiece': this.checkFilter('heartpiece', tileRewards),
-                'weapon': this.checkFilter('weapon', tileRewards),
-                'skulltula': this.checkFilter('skulltula', tileRewards),
-                'fairy': this.checkFilter('fairy', tileRewards),
-                'salon': this.checkFilter('salon', tileRewards),
-                'character': this.checkFilter('character', tileRewards),
-                'food': this.checkFilter('food', tileRewards),
-                'costume': this.checkFilter('costume', tileRewards),
-            }
-            this.fullmapAppend[i].filter = filterVariables
-
-            //Append 
-            this.fullmapAppend[i].reward_arank = this.appendRewards('arank', tileRewards)
-            this.fullmapAppend[i].reward_victory = this.appendRewards('victory', tileRewards)
-            this.fullmapAppend[i].treasure = this.appendRewards('treasure', tileRewards)
-        }
-
-        this.getTileInfo('adv_h8')
-    },
     methods: {
         getGridDimensions(dim: any) {
             let setWidth = dim[0] * 80;
             return `grid-template-columns: repeat(${dim[0]}, 1fr); grid-template-rows: repeat(${dim[1]}, 1fr); width: ${setWidth}px;`;
         },
-        checkFilter(condition: string, arr: []) {
-            let results = arr.filter((d: any) => d.identity === condition);
-            return results.length > 0 ? true : false
-        },
         checkFilterAppend(mapcode: string, type: string) {
-            let results = this.mapInfo.filter((d: any) => d.mapcode == mapcode);
+            let results = this.mapData.treasureData.filter((d: any) => d.mapcode == mapcode);
             for (let i=0; i < results.length; i++) {
                 if (results[i].identity == type) {
                     return true
@@ -143,16 +128,11 @@ export default {
             }
             return false
         },
-        appendRewards(type: string, arr: []) {
-            let results = arr.filter((d: any) => d.aquire === type);
-            return results
-        },
-        getTileInfo(tile: string,d: any) {
-            let tileInfo = this.fullmapAppend.filter((d: any) => d.mapcode === tile)[0];
-            this.fullTileInfo = tileInfo
+        checkCard(mapcode: string) {
+            let results = this.mapData.treasureData.filter((d: any) => d.mapcode == mapcode && d.identity == 'card')
+            return results[0].character
         },
         changeFilter(name: string) {
-
             if (this.filter[name]) {
                 this.filter[name] = false
                 return false;
@@ -172,7 +152,15 @@ export default {
             };
 
             this.filter[name] = true
-        }
+        },
+        fetchTileData(arr: any) {
+            let compiledTileData = arr
+            compiledTileData.search = compiledTileData.search == 'TRUE' ? true : false
+            compiledTileData.reward_arank = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'arank')
+            compiledTileData.reward_victory = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'victory')
+            compiledTileData.treasure = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'treasure')
+            this.tileData = compiledTileData
+        },
     }
 }
 
