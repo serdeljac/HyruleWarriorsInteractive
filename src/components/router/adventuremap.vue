@@ -18,7 +18,7 @@
 
         <div class="mapzone" :class="mapData.mapname" :style="getGridDimensions(mapData.dimensions)">
             <div v-for="d in mapData.tileData" :key="d.ID" class="node" :class="`${d.mapcode}`" @click="fetchTileData(d)">
-                <div class="wrapper" :style="`background-image:url(../assets/mapimg/${mapData.mapname}/${d.mapcode}.webp)`">
+                <div class="wrapper" :style="`background-image:url(../assets/mapimg/${mapData.mapname}/${d.mapcode}.jpg)`">
 
                     <div class="tile" v-if="filter.difficulty" :class="`diff-style diff-${d.difficulty}`"></div>
 
@@ -155,7 +155,7 @@ export default {
         },
         fetchTileData(arr: any) {
             let compiledTileData = arr
-            compiledTileData.search = compiledTileData.search === 'FALSE' ? false : true
+            compiledTileData.search = compiledTileData.search === 'FALSE' || compiledTileData.search === false ? false : true
             compiledTileData.reward_arank = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'arank')
             compiledTileData.reward_victory = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'victory')
             compiledTileData.treasure = this.mapData.treasureData.filter((d: any) => d.mapcode == arr.mapcode && d.aquire == 'treasure')

@@ -6,7 +6,7 @@
                 <div class="tab" :class="!TAB_search_image ? 'active' : ''" @click="TAB_search_image = false">Battle Info</div>
             </div>
             <div class="mapimg_select">
-                <div v-if="TAB_search_image && tileData.search" class="img" :style="`background-image:url(../../assets/mapimg/${tileData.mapname}/unlocks/${tileData.mapcode}_unlock.webp)`"></div>
+                <div v-if="TAB_search_image && tileData.search" class="img" :style="`background-image:url(../../assets/mapimg/${tileData.mapname}/${tileData.mapcode}_unlock.jpg)`"></div>
                 <div v-else-if="TAB_search_image && !tileData.search" class="img_nosearch">
                     <p>No Search Requirements</p>
                 </div>                

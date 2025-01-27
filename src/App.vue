@@ -106,7 +106,6 @@ export default {
       this.adventuremode.dimensions = this.dimensions[e]
       this.adventuremode.tileData = this.fullTileData[e]
       this.adventuremode.treasureData = this.fullTreasureData[e]
-      console.log(this.adventuremode)
     }
   },
 }
